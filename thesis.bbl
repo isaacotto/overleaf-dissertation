@@ -1,0 +1,3357 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{cms/global//global/global}
+    \entry{Guido_1904}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8a774c3b1cbe3a87fb2bd4fc88cc35ec}{%
+           family={(d'Arezzo.)},
+           familyi={(\bibinitperiod},
+           given={Guido},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {Latin}%
+      }
+      \list{publisher}{1}{%
+        {Desclée}%
+      }
+      \strng{namehash}{8a774c3b1cbe3a87fb2bd4fc88cc35ec}
+      \strng{fullhash}{8a774c3b1cbe3a87fb2bd4fc88cc35ec}
+      \strng{bibnamehash}{8a774c3b1cbe3a87fb2bd4fc88cc35ec}
+      \strng{authorbibnamehash}{8a774c3b1cbe3a87fb2bd4fc88cc35ec}
+      \strng{authornamehash}{8a774c3b1cbe3a87fb2bd4fc88cc35ec}
+      \strng{authorfullhash}{8a774c3b1cbe3a87fb2bd4fc88cc35ec}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{note}{Google-Books-ID: Fj3fSAAACAAJ}
+      \field{shorttitle}{Micrologus (1904)}
+      \field{title}{Guidonis Monachi Aretini Micrologus [de disciplina artis musicae] ad praestantiores codices mss. exactus}
+      \field{year}{1904}
+    \endentry
+    \entry{Guido_1000}{unpublished}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=56c58ed252b146f60f582b39ffd4a189}{%
+           family={(d’Arezzo)},
+           familyi={(\bibinitperiod},
+           given={Guido},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {Latin}%
+      }
+      \list{location}{1}{%
+        {Netherlands}%
+      }
+      \strng{namehash}{56c58ed252b146f60f582b39ffd4a189}
+      \strng{fullhash}{56c58ed252b146f60f582b39ffd4a189}
+      \strng{bibnamehash}{56c58ed252b146f60f582b39ffd4a189}
+      \strng{authorbibnamehash}{56c58ed252b146f60f582b39ffd4a189}
+      \strng{authornamehash}{56c58ed252b146f60f582b39ffd4a189}
+      \strng{authorfullhash}{56c58ed252b146f60f582b39ffd4a189}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{Micrologus (ca. 1000)}
+      \field{title}{Guidonis Aretini Micrologus. - Guidonis Aretini Dialogus in musicam. - de Similitudine virilis chori femineique ad autentos plagas}
+      \field{type}{scans}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://hdl.handle.net/1887.1/item:1805705
+      \endverb
+      \verb{url}
+      \verb http://hdl.handle.net/1887.1/item:1805705
+      \endverb
+    \endentry
+    \entry{Music_101}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fb9aa132fac44ef60659ab0c7faa0b9d}{%
+           family={``Masterclass''},
+           familyi={``\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{fb9aa132fac44ef60659ab0c7faa0b9d}
+      \strng{fullhash}{fb9aa132fac44ef60659ab0c7faa0b9d}
+      \strng{bibnamehash}{fb9aa132fac44ef60659ab0c7faa0b9d}
+      \strng{authorbibnamehash}{fb9aa132fac44ef60659ab0c7faa0b9d}
+      \strng{authornamehash}{fb9aa132fac44ef60659ab0c7faa0b9d}
+      \strng{authorfullhash}{fb9aa132fac44ef60659ab0c7faa0b9d}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{MasterClass}
+      \field{month}{6}
+      \field{title}{Music 101: What Is Musical Notation? Learn About The Different Types of Musical Notes and Time Signatures}
+      \field{year}{2021}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.masterclass.com/articles/music-101-what-is-musical-notation-learn-about-the-different-types-of-musical-notes-and-time-signatures
+      \endverb
+      \verb{url}
+      \verb https://www.masterclass.com/articles/music-101-what-is-musical-notation-learn-about-the-different-types-of-musical-notes-and-time-signatures
+      \endverb
+    \endentry
+    \entry{Abel_2016}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e5ec3ad33b721d45b0466c5173839031}{%
+           family={Abel},
+           familyi={A\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{e5ec3ad33b721d45b0466c5173839031}
+      \strng{fullhash}{e5ec3ad33b721d45b0466c5173839031}
+      \strng{bibnamehash}{e5ec3ad33b721d45b0466c5173839031}
+      \strng{authorbibnamehash}{e5ec3ad33b721d45b0466c5173839031}
+      \strng{authornamehash}{e5ec3ad33b721d45b0466c5173839031}
+      \strng{authorfullhash}{e5ec3ad33b721d45b0466c5173839031}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0300-211X}
+      \field{journaltitle}{Radical Philosophy}
+      \field{number}{195}
+      \field{shorttitle}{Radical openness}
+      \field{title}{Radical openness: Chord symbols, musical abstraction and modernism}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://www.radicalphilosophy.com/article/radical-openness
+      \endverb
+      \verb{url}
+      \verb https://www.radicalphilosophy.com/article/radical-openness
+      \endverb
+    \endentry
+    \entry{Agostini_Ghisi}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8f9537cd50103c7542fa1f69cca9f6be}{%
+           family={Agostini},
+           familyi={A\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0d1793dc38803b570908749691a49216}{%
+           family={Ghisi},
+           familyi={G\bibinitperiod},
+           given={Daniele},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a77b58bb27a09238afc6c929f281d2dc}
+      \strng{fullhash}{a77b58bb27a09238afc6c929f281d2dc}
+      \strng{bibnamehash}{a77b58bb27a09238afc6c929f281d2dc}
+      \strng{authorbibnamehash}{a77b58bb27a09238afc6c929f281d2dc}
+      \strng{authornamehash}{a77b58bb27a09238afc6c929f281d2dc}
+      \strng{authorfullhash}{a77b58bb27a09238afc6c929f281d2dc}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ircam}
+      \field{title}{bach: Computer-aided composition in Max}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://forum.ircam.fr/projects/detail/bach-computer-aided-composition-in-max/
+      \endverb
+      \verb{url}
+      \verb https://forum.ircam.fr/projects/detail/bach-computer-aided-composition-in-max/
+      \endverb
+    \endentry
+    \entry{Andriessen_1975}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=af186205b67756600f10bdd34817ca71}{%
+           family={Andriessen},
+           familyi={A\bibinitperiod},
+           given={Louis},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \list{publisher}{1}{%
+        {MiziekGroep Nederland}%
+      }
+      \strng{namehash}{af186205b67756600f10bdd34817ca71}
+      \strng{fullhash}{af186205b67756600f10bdd34817ca71}
+      \strng{bibnamehash}{af186205b67756600f10bdd34817ca71}
+      \strng{authorbibnamehash}{af186205b67756600f10bdd34817ca71}
+      \strng{authornamehash}{af186205b67756600f10bdd34817ca71}
+      \strng{authorfullhash}{af186205b67756600f10bdd34817ca71}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Workers Union}
+      \field{year}{1975}
+      \true{nocite}
+    \endentry
+    \entry{Benadon_2009}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b6c82cd911d24f10ad701173d3432fd3}{%
+           family={Benadon},
+           familyi={B\bibinitperiod},
+           given={Fernando},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Perspectives of New Music}%
+      }
+      \strng{namehash}{b6c82cd911d24f10ad701173d3432fd3}
+      \strng{fullhash}{b6c82cd911d24f10ad701173d3432fd3}
+      \strng{bibnamehash}{b6c82cd911d24f10ad701173d3432fd3}
+      \strng{authorbibnamehash}{b6c82cd911d24f10ad701173d3432fd3}
+      \strng{authornamehash}{b6c82cd911d24f10ad701173d3432fd3}
+      \strng{authorfullhash}{b6c82cd911d24f10ad701173d3432fd3}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2325-7180}
+      \field{journaltitle}{Perspectives of New Music}
+      \field{number}{1}
+      \field{title}{Gridless Beats}
+      \field{volume}{47}
+      \field{year}{2009}
+      \true{nocite}
+      \field{pages}{135\bibrangedash 164}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.1353/pnm.2009.0019
+      \endverb
+    \endentry
+    \entry{Bent_2014}{misc}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=c185734d3b49c7a232e087a698883a3d}{%
+           family={Bent},
+           familyi={B\bibinitperiod},
+           given={Ian\bibnamedelima D.},
+           giveni={I\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=211076f0f5e969ec7ba3dad217b0ed5c}{%
+           family={Hughes},
+           familyi={H\bibinitperiod},
+           given={David\bibnamedelima W.},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=193d837e8e34a2fb945fd5b10b1390ee}{%
+           family={Provine},
+           familyi={P\bibinitperiod},
+           given={Robert\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b6dc9d81daa81c5002ca38d4020f24da}{%
+           family={Rastall},
+           familyi={R\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=90065f02bdff299b608f3d7cd342e941}{%
+           family={Kilmer},
+           familyi={K\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8fc0714114439a583be5b934ddc68ae}{%
+           family={Hiley},
+           familyi={H\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8442f6781c7a20473f95b26f5bf5565a}{%
+           family={Szendrei},
+           familyi={S\bibinitperiod},
+           given={Janka},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6b49f0e73f5bd54aceb88bfa474a3065}{%
+           family={Payne},
+           familyi={P\bibinitperiod},
+           given={Thomas\bibnamedelima B.},
+           giveni={T\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5c33f6344871e25deb25af433556ae05}{%
+           family={Bent},
+           familyi={B\bibinitperiod},
+           given={Margaret},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b8dbe6914e44d75aca7bb0f58a080f32}{%
+           family={Chew},
+           familyi={C\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{70e717d2f373f422e93115faf6a1b602}
+      \strng{fullhash}{044b9f10026a979a106495d02c318992}
+      \strng{bibnamehash}{044b9f10026a979a106495d02c318992}
+      \strng{authorbibnamehash}{044b9f10026a979a106495d02c318992}
+      \strng{authornamehash}{70e717d2f373f422e93115faf6a1b602}
+      \strng{authorfullhash}{044b9f10026a979a106495d02c318992}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781561592630}
+      \field{journaltitle}{Grove Music Online}
+      \field{title}{Notation}
+      \field{year}{2014}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.oxfordmusiconline.com/grovemusic/display/10.1093/gmo/9781561592630.001.0001/omo-9781561592630-e-0000020114
+      \endverb
+      \verb{url}
+      \verb https://www.oxfordmusiconline.com/grovemusic/display/10.1093/gmo/9781561592630.001.0001/omo-9781561592630-e-0000020114
+      \endverb
+    \endentry
+    \entry{Berberian_1966}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=80bdd0093f9bde13377e9f5beca8df36}{%
+           family={Berberian},
+           familyi={B\bibinitperiod},
+           given={Cathy},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {C.F. Peters}%
+      }
+      \strng{namehash}{80bdd0093f9bde13377e9f5beca8df36}
+      \strng{fullhash}{80bdd0093f9bde13377e9f5beca8df36}
+      \strng{bibnamehash}{80bdd0093f9bde13377e9f5beca8df36}
+      \strng{authorbibnamehash}{80bdd0093f9bde13377e9f5beca8df36}
+      \strng{authornamehash}{80bdd0093f9bde13377e9f5beca8df36}
+      \strng{authorfullhash}{80bdd0093f9bde13377e9f5beca8df36}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Stripsody}
+      \field{year}{1966}
+      \true{nocite}
+    \endentry
+    \entry{Berio_1958}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b47e27715334f662bd367e96819f0331}{%
+           family={Berio},
+           familyi={B\bibinitperiod},
+           given={Luciano},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {Italian}%
+      }
+      \list{publisher}{1}{%
+        {Edizioni Suvini Zerboni}%
+      }
+      \strng{namehash}{b47e27715334f662bd367e96819f0331}
+      \strng{fullhash}{b47e27715334f662bd367e96819f0331}
+      \strng{bibnamehash}{b47e27715334f662bd367e96819f0331}
+      \strng{authorbibnamehash}{b47e27715334f662bd367e96819f0331}
+      \strng{authornamehash}{b47e27715334f662bd367e96819f0331}
+      \strng{authorfullhash}{b47e27715334f662bd367e96819f0331}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sequenza per Flauto Solo}
+      \field{year}{1958}
+    \endentry
+    \entry{Berliner_1994}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=abd2e2d8c4a1eca0c9f7ee095474faa7}{%
+           family={Berliner},
+           familyi={B\bibinitperiod},
+           given={Paul\bibnamedelima F.},
+           giveni={P\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {Chicago}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{abd2e2d8c4a1eca0c9f7ee095474faa7}
+      \strng{fullhash}{abd2e2d8c4a1eca0c9f7ee095474faa7}
+      \strng{bibnamehash}{abd2e2d8c4a1eca0c9f7ee095474faa7}
+      \strng{authorbibnamehash}{abd2e2d8c4a1eca0c9f7ee095474faa7}
+      \strng{authornamehash}{abd2e2d8c4a1eca0c9f7ee095474faa7}
+      \strng{authorfullhash}{abd2e2d8c4a1eca0c9f7ee095474faa7}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{edition}{1st edition}
+      \field{isbn}{978-0-226-04381-4}
+      \field{month}{10}
+      \field{shorttitle}{Thinking in Jazz}
+      \field{title}{Thinking in Jazz: The Infinite Art of Improvisation}
+      \field{year}{1994}
+    \endentry
+    \entry{Bonhams}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6706e99018f5446d44613bcfb8b89eee}{%
+           family={Bonhams},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{6706e99018f5446d44613bcfb8b89eee}
+      \strng{fullhash}{6706e99018f5446d44613bcfb8b89eee}
+      \strng{bibnamehash}{6706e99018f5446d44613bcfb8b89eee}
+      \strng{authorbibnamehash}{6706e99018f5446d44613bcfb8b89eee}
+      \strng{authornamehash}{6706e99018f5446d44613bcfb8b89eee}
+      \strng{authorfullhash}{6706e99018f5446d44613bcfb8b89eee}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{16}
+      \field{month}{6}
+      \field{title}{Lot 144: Monk, Thelonious Sphere. 1917-1982}
+      \field{urlday}{18}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.bonhams.com/auction/22407/lot/144/monk-thelonious-sphere-1917-1982-autograph-musical-manuscript-signed-thelonious-m-monks-mood-1-page-new-york-c1956-7-6-34-x-7-12-inches/
+      \endverb
+      \verb{url}
+      \verb https://www.bonhams.com/auction/22407/lot/144/monk-thelonious-sphere-1917-1982-autograph-musical-manuscript-signed-thelonious-m-monks-mood-1-page-new-york-c1956-7-6-34-x-7-12-inches/
+      \endverb
+    \endentry
+    \entry{Boulez_Nattiez_2019}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e6b88fae929d232f7e877b0cfb1f643e}{%
+           family={Boulez},
+           familyi={B\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b87f21d5d0a4f05371e0a6a2fe910b28}{%
+           family={Nattiez},
+           familyi={N\bibinitperiod},
+           given={Jean-Jacques},
+           giveni={J\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=fb99d0f0396295f0d8ac0497c3dead17}{%
+           family={Dunsby},
+           familyi={D\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=af26ad785e2df7b8cd014d52e24e7795}{%
+           family={Goldman},
+           familyi={G\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4e9aefc8f4984a412103a445c3a98684}{%
+           family={Whittall},
+           familyi={W\bibinitperiod},
+           given={Arnold},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {Chicago}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{9ed30b57f48d5b3893c621cecfd78c70}
+      \strng{fullhash}{9ed30b57f48d5b3893c621cecfd78c70}
+      \strng{bibnamehash}{9ed30b57f48d5b3893c621cecfd78c70}
+      \strng{authorbibnamehash}{9ed30b57f48d5b3893c621cecfd78c70}
+      \strng{authornamehash}{9ed30b57f48d5b3893c621cecfd78c70}
+      \strng{authorfullhash}{9ed30b57f48d5b3893c621cecfd78c70}
+      \strng{editorbibnamehash}{bbac41d6efd4588b8c6ea6944ebe2380}
+      \strng{editornamehash}{bbac41d6efd4588b8c6ea6944ebe2380}
+      \strng{editorfullhash}{bbac41d6efd4588b8c6ea6944ebe2380}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{First Edition}
+      \field{isbn}{978-0-226-67259-5}
+      \field{month}{11}
+      \field{title}{Music Lessons: The Collège de France Lectures}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{Braxton_1977}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e2c152cd9136fe3d6a6fb915668045f5}{%
+           family={Braxton},
+           familyi={B\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New Haven, Conn.}%
+      }
+      \list{publisher}{1}{%
+        {The Tri-Centric Foundation}%
+      }
+      \strng{namehash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \strng{fullhash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \strng{bibnamehash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \strng{authorbibnamehash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \strng{authornamehash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \strng{authorfullhash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extratitle}{1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Composition No. 76}
+      \field{year}{1977}
+      \true{nocite}
+    \endentry
+    \entry{Braxton_Comp_76}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e2c152cd9136fe3d6a6fb915668045f5}{%
+           family={Braxton},
+           familyi={B\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{publisher}{1}{%
+        {Tri-Centric Foundation}%
+      }
+      \strng{namehash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \strng{fullhash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \strng{bibnamehash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \strng{authorbibnamehash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \strng{authornamehash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \strng{authorfullhash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extratitle}{2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Composition No. 76}
+      \field{year}{2014}
+      \true{nocite}
+    \endentry
+    \entry{Braxton_1988A}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e2c152cd9136fe3d6a6fb915668045f5}{%
+           family={Braxton},
+           familyi={B\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {Lebanon, NH}%
+      }
+      \list{publisher}{1}{%
+        {Frog Peak Music}%
+      }
+      \strng{namehash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \strng{fullhash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \strng{bibnamehash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \strng{authorbibnamehash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \strng{authornamehash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \strng{authorfullhash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \field{extraname}{3}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{Comp. Notes A}
+      \field{title}{Composition Notes Book A}
+      \field{year}{1988}
+      \true{nocite}
+    \endentry
+    \entry{Braxton_1988}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e2c152cd9136fe3d6a6fb915668045f5}{%
+           family={Braxton},
+           familyi={B\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {Lebanon, NH}%
+      }
+      \list{publisher}{1}{%
+        {Frog Peak Music}%
+      }
+      \strng{namehash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \strng{fullhash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \strng{bibnamehash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \strng{authorbibnamehash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \strng{authornamehash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \strng{authorfullhash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \field{extraname}{4}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{Comp. Notes D}
+      \field{title}{Composition Notes Book D}
+      \field{year}{1988}
+      \true{nocite}
+    \endentry
+    \entry{Braxton_For_Trio}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e2c152cd9136fe3d6a6fb915668045f5}{%
+           family={Braxton},
+           familyi={B\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Arista - AB 4181}%
+      }
+      \strng{namehash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \strng{fullhash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \strng{bibnamehash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \strng{authorbibnamehash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \strng{authornamehash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \strng{authorfullhash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \field{extraname}{5}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{For Trio}
+      \field{year}{1978}
+      \true{nocite}
+    \endentry
+    \entry{Braxton_1985}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e2c152cd9136fe3d6a6fb915668045f5}{%
+           family={Braxton},
+           familyi={B\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Oakland, CA}%
+      }
+      \list{publisher}{1}{%
+        {Frog Peak Music}%
+      }
+      \strng{namehash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \strng{fullhash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \strng{bibnamehash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \strng{authorbibnamehash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \strng{authornamehash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \strng{authorfullhash}{e2c152cd9136fe3d6a6fb915668045f5}
+      \field{extraname}{6}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tri-Axium Writings}
+      \field{volume}{3}
+      \field{year}{1985}
+      \true{nocite}
+    \endentry
+    \entry{Brown_1986}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c4598ad0753b4e4248fd7c81ee2b8b5e}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Earle},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Associated Music Publishers}%
+      }
+      \strng{namehash}{c4598ad0753b4e4248fd7c81ee2b8b5e}
+      \strng{fullhash}{c4598ad0753b4e4248fd7c81ee2b8b5e}
+      \strng{bibnamehash}{c4598ad0753b4e4248fd7c81ee2b8b5e}
+      \strng{authorbibnamehash}{c4598ad0753b4e4248fd7c81ee2b8b5e}
+      \strng{authornamehash}{c4598ad0753b4e4248fd7c81ee2b8b5e}
+      \strng{authorfullhash}{c4598ad0753b4e4248fd7c81ee2b8b5e}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-634-03808-2}
+      \field{month}{11}
+      \field{title}{Folio and 4 Systems}
+      \field{year}{1986}
+    \endentry
+    \entry{Brown_2008}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c4598ad0753b4e4248fd7c81ee2b8b5e}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Earle},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Illinois Press}%
+      }
+      \strng{namehash}{c4598ad0753b4e4248fd7c81ee2b8b5e}
+      \strng{fullhash}{c4598ad0753b4e4248fd7c81ee2b8b5e}
+      \strng{bibnamehash}{c4598ad0753b4e4248fd7c81ee2b8b5e}
+      \strng{authorbibnamehash}{c4598ad0753b4e4248fd7c81ee2b8b5e}
+      \strng{authornamehash}{c4598ad0753b4e4248fd7c81ee2b8b5e}
+      \strng{authorfullhash}{c4598ad0753b4e4248fd7c81ee2b8b5e}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0734-4392}
+      \field{journaltitle}{American Music}
+      \field{number}{1}
+      \field{title}{On December 1952}
+      \field{volume}{26}
+      \field{year}{2008}
+      \field{pages}{1\bibrangedash 12}
+      \range{pages}{12}
+    \endentry
+    \entry{Brunner_1982}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3a378bf7efe3516b6b336a3a6bde2f78}{%
+           family={Brunner},
+           familyi={B\bibinitperiod},
+           given={Lance\bibnamedelima W.},
+           giveni={L\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{3a378bf7efe3516b6b336a3a6bde2f78}
+      \strng{fullhash}{3a378bf7efe3516b6b336a3a6bde2f78}
+      \strng{bibnamehash}{3a378bf7efe3516b6b336a3a6bde2f78}
+      \strng{authorbibnamehash}{3a378bf7efe3516b6b336a3a6bde2f78}
+      \strng{authornamehash}{3a378bf7efe3516b6b336a3a6bde2f78}
+      \strng{authorfullhash}{3a378bf7efe3516b6b336a3a6bde2f78}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0306-1078}
+      \field{journaltitle}{Early Music}
+      \field{number}{3}
+      \field{shorttitle}{The Performance of Plainchant}
+      \field{title}{The Performance of Plainchant: Some Preliminary Observations of the New Era}
+      \field{volume}{10}
+      \field{year}{1982}
+      \field{pages}{317\bibrangedash 328}
+      \range{pages}{12}
+    \endentry
+    \entry{Bussotti_1959}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=17312a62e58b3ab61c949446946aca1c}{%
+           family={Bussotti},
+           familyi={B\bibinitperiod},
+           given={Sylvano},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Universal Edition}%
+      }
+      \strng{namehash}{17312a62e58b3ab61c949446946aca1c}
+      \strng{fullhash}{17312a62e58b3ab61c949446946aca1c}
+      \strng{bibnamehash}{17312a62e58b3ab61c949446946aca1c}
+      \strng{authorbibnamehash}{17312a62e58b3ab61c949446946aca1c}
+      \strng{authornamehash}{17312a62e58b3ab61c949446946aca1c}
+      \strng{authorfullhash}{17312a62e58b3ab61c949446946aca1c}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{Five Piano Pieces for David Tudor}
+      \field{title}{Five Piano Pieces for David Tudor: 1959: Extraits de Pièces de Chair II (reproduction de manuscript de l'auteur)}
+      \field{year}{1959}
+      \true{nocite}
+    \endentry
+    \entry{Cage_1958}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cf887d5e92f9c5bbd1dfb46715cbc78c}{%
+           family={Cage},
+           familyi={C\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{publisher}{1}{%
+        {Edition Peters}%
+      }
+      \strng{namehash}{cf887d5e92f9c5bbd1dfb46715cbc78c}
+      \strng{fullhash}{cf887d5e92f9c5bbd1dfb46715cbc78c}
+      \strng{bibnamehash}{cf887d5e92f9c5bbd1dfb46715cbc78c}
+      \strng{authorbibnamehash}{cf887d5e92f9c5bbd1dfb46715cbc78c}
+      \strng{authornamehash}{cf887d5e92f9c5bbd1dfb46715cbc78c}
+      \strng{authorfullhash}{cf887d5e92f9c5bbd1dfb46715cbc78c}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-300-73327-3}
+      \field{title}{Aria}
+      \field{year}{1958}
+      \true{nocite}
+    \endentry
+    \entry{Cage_1960}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cf887d5e92f9c5bbd1dfb46715cbc78c}{%
+           family={Cage},
+           familyi={C\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Edition Peters}%
+      }
+      \strng{namehash}{cf887d5e92f9c5bbd1dfb46715cbc78c}
+      \strng{fullhash}{cf887d5e92f9c5bbd1dfb46715cbc78c}
+      \strng{bibnamehash}{cf887d5e92f9c5bbd1dfb46715cbc78c}
+      \strng{authorbibnamehash}{cf887d5e92f9c5bbd1dfb46715cbc78c}
+      \strng{authornamehash}{cf887d5e92f9c5bbd1dfb46715cbc78c}
+      \strng{authorfullhash}{cf887d5e92f9c5bbd1dfb46715cbc78c}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Concert for Piano and Orchestra: Solo for Piano}
+      \field{year}{1960}
+      \true{nocite}
+    \endentry
+    \entry{Canguilhem_2017}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2c3ac3de4ecbd0b13aa4c3c9398124a6}{%
+           family={Canguilhem},
+           familyi={C\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=2fb35f73f8e936cf2168a0b60f01a5bb}{%
+           family={Guido},
+           familyi={G\bibinitperiod},
+           given={Massimiliano},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{2c3ac3de4ecbd0b13aa4c3c9398124a6}
+      \strng{fullhash}{2c3ac3de4ecbd0b13aa4c3c9398124a6}
+      \strng{bibnamehash}{2c3ac3de4ecbd0b13aa4c3c9398124a6}
+      \strng{authorbibnamehash}{2c3ac3de4ecbd0b13aa4c3c9398124a6}
+      \strng{authornamehash}{2c3ac3de4ecbd0b13aa4c3c9398124a6}
+      \strng{authorfullhash}{2c3ac3de4ecbd0b13aa4c3c9398124a6}
+      \strng{editorbibnamehash}{2fb35f73f8e936cf2168a0b60f01a5bb}
+      \strng{editornamehash}{2fb35f73f8e936cf2168a0b60f01a5bb}
+      \strng{editorfullhash}{2fb35f73f8e936cf2168a0b60f01a5bb}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Studies in Historical Improvisation: From Cantare super Librum to Partimenti}
+      \field{isbn}{978-1-317-04894-7}
+      \field{month}{1}
+      \field{note}{Google-Books-ID: PiolDwAAQBAJ}
+      \field{title}{Toward a stylistic history of Cantare super Librum}
+      \field{year}{2017}
+      \true{nocite}
+      \field{pages}{55\bibrangedash 71}
+      \range{pages}{17}
+    \endentry
+    \entry{Cardew_1967}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ed5ac4b4dc3df60a50c1feb0d129a291}{%
+           family={Cardew},
+           familyi={C\bibinitperiod},
+           given={Cornelius},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Hinrichsen Edition, Ltd.}%
+      }
+      \strng{namehash}{ed5ac4b4dc3df60a50c1feb0d129a291}
+      \strng{fullhash}{ed5ac4b4dc3df60a50c1feb0d129a291}
+      \strng{bibnamehash}{ed5ac4b4dc3df60a50c1feb0d129a291}
+      \strng{authorbibnamehash}{ed5ac4b4dc3df60a50c1feb0d129a291}
+      \strng{authornamehash}{ed5ac4b4dc3df60a50c1feb0d129a291}
+      \strng{authorfullhash}{ed5ac4b4dc3df60a50c1feb0d129a291}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Treatise}
+      \field{year}{1967}
+      \true{nocite}
+    \endentry
+    \entry{Carl_2010}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a36afcdd3b7a3f02a7472462b6508402}{%
+           family={Carl},
+           familyi={C\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \strng{namehash}{a36afcdd3b7a3f02a7472462b6508402}
+      \strng{fullhash}{a36afcdd3b7a3f02a7472462b6508402}
+      \strng{bibnamehash}{a36afcdd3b7a3f02a7472462b6508402}
+      \strng{authorbibnamehash}{a36afcdd3b7a3f02a7472462b6508402}
+      \strng{authornamehash}{a36afcdd3b7a3f02a7472462b6508402}
+      \strng{authorfullhash}{a36afcdd3b7a3f02a7472462b6508402}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{title}{Terry Riley’s In C - New Music USA}
+      \field{year}{2010}
+      \verb{urlraw}
+      \verb https://newmusicusa.org/nmbx/terry-rileys-in-c/
+      \endverb
+      \verb{url}
+      \verb https://newmusicusa.org/nmbx/terry-rileys-in-c/
+      \endverb
+    \endentry
+    \entry{Cauwenberghe_2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a7b0333c449b134e1f39bb264953fc5b}{%
+           family={Cauwenberghe},
+           familyi={C\bibinitperiod},
+           given={Kobe\bibnamedelima Van},
+           giveni={K\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Amsterdam University Press}%
+      }
+      \strng{namehash}{a7b0333c449b134e1f39bb264953fc5b}
+      \strng{fullhash}{a7b0333c449b134e1f39bb264953fc5b}
+      \strng{bibnamehash}{a7b0333c449b134e1f39bb264953fc5b}
+      \strng{authorbibnamehash}{a7b0333c449b134e1f39bb264953fc5b}
+      \strng{authornamehash}{a7b0333c449b134e1f39bb264953fc5b}
+      \strng{authorfullhash}{a7b0333c449b134e1f39bb264953fc5b}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0779-7397}
+      \field{journaltitle}{FORUM+}
+      \field{month}{2}
+      \field{number}{1}
+      \field{shorttitle}{A ritual of openness}
+      \field{title}{A ritual of openness. The (meta-)reality of Anthony Braxton's Ghost Trance Music}
+      \field{volume}{28}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{48\bibrangedash 57}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.5117/FORUM2021.1.VANC
+      \endverb
+    \endentry
+    \entry{Chung_2019}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ded329044a642e8d951d53fe73f62a67}{%
+           family={Chung},
+           familyi={C\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en-GB}%
+      }
+      \strng{namehash}{ded329044a642e8d951d53fe73f62a67}
+      \strng{fullhash}{ded329044a642e8d951d53fe73f62a67}
+      \strng{bibnamehash}{ded329044a642e8d951d53fe73f62a67}
+      \strng{authorbibnamehash}{ded329044a642e8d951d53fe73f62a67}
+      \strng{authornamehash}{ded329044a642e8d951d53fe73f62a67}
+      \strng{authorfullhash}{ded329044a642e8d951d53fe73f62a67}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1893-9562}
+      \field{journaltitle}{Music \& Practice}
+      \field{shorttitle}{Transcribing Couperin's Preludes}
+      \field{title}{Transcribing Couperin’s Preludes à la D’Anglebert: a Journey into the Creative Processes of the 17th-century Quasi-improvisatory Tradition}
+      \field{volume}{5}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.musicandpractice.org/volume-5/transcribing-couperins-preludes-a-la-danglebert/
+      \endverb
+      \verb{url}
+      \verb https://www.musicandpractice.org/volume-5/transcribing-couperins-preludes-a-la-danglebert/
+      \endverb
+    \endentry
+    \entry{Cope_1984}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b1f83435cd5e177479da9aa154b2dda4}{%
+           family={Cope},
+           familyi={C\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {Dubuque, Iowa}%
+      }
+      \list{publisher}{1}{%
+        {Wm. C. Brown Publishers}%
+      }
+      \strng{namehash}{b1f83435cd5e177479da9aa154b2dda4}
+      \strng{fullhash}{b1f83435cd5e177479da9aa154b2dda4}
+      \strng{bibnamehash}{b1f83435cd5e177479da9aa154b2dda4}
+      \strng{authorbibnamehash}{b1f83435cd5e177479da9aa154b2dda4}
+      \strng{authornamehash}{b1f83435cd5e177479da9aa154b2dda4}
+      \strng{authorfullhash}{b1f83435cd5e177479da9aa154b2dda4}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4th}
+      \field{isbn}{0-697-03607-3}
+      \field{title}{New Directions in Music}
+      \field{year}{1984}
+      \true{nocite}
+    \endentry
+    \entry{MAX}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9cda5461d832d3581f48747f260a8815}{%
+           family={{Cycling `74}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{9cda5461d832d3581f48747f260a8815}
+      \strng{fullhash}{9cda5461d832d3581f48747f260a8815}
+      \strng{bibnamehash}{9cda5461d832d3581f48747f260a8815}
+      \strng{authorbibnamehash}{9cda5461d832d3581f48747f260a8815}
+      \strng{authornamehash}{9cda5461d832d3581f48747f260a8815}
+      \strng{authorfullhash}{9cda5461d832d3581f48747f260a8815}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Max}
+      \field{version}{8.5.4}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://cycling74.com/products/max
+      \endverb
+      \verb{url}
+      \verb https://cycling74.com/products/max
+      \endverb
+    \endentry
+    \entry{Dicker_2016}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e9704831c156e976f2f55e7fa79afe6c}{%
+           family={Dicker},
+           familyi={D\bibinitperiod},
+           given={Erica},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e9704831c156e976f2f55e7fa79afe6c}
+      \strng{fullhash}{e9704831c156e976f2f55e7fa79afe6c}
+      \strng{bibnamehash}{e9704831c156e976f2f55e7fa79afe6c}
+      \strng{authorbibnamehash}{e9704831c156e976f2f55e7fa79afe6c}
+      \strng{authornamehash}{e9704831c156e976f2f55e7fa79afe6c}
+      \strng{authorfullhash}{e9704831c156e976f2f55e7fa79afe6c}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sound American}
+      \field{number}{16: The Anthony Braxton Issue}
+      \field{title}{SA16: Ghost Trance Music}
+      \field{year}{2016}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://archive.soundamerican.org/sa\%5Farchive/sa16/sa16-ghost-trance-music.html
+      \endverb
+      \verb{url}
+      \verb http://archive.soundamerican.org/sa%5C%5Farchive/sa16/sa16-ghost-trance-music.html
+      \endverb
+    \endentry
+    \entry{Diergarten_2011}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ab5a89f53b3b4447211a12dac1ad3b33}{%
+           family={Diergarten},
+           familyi={D\bibinitperiod},
+           given={Felix},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{publisher}{1}{%
+        {University of North Texas}%
+      }
+      \strng{namehash}{ab5a89f53b3b4447211a12dac1ad3b33}
+      \strng{fullhash}{ab5a89f53b3b4447211a12dac1ad3b33}
+      \strng{bibnamehash}{ab5a89f53b3b4447211a12dac1ad3b33}
+      \strng{authorbibnamehash}{ab5a89f53b3b4447211a12dac1ad3b33}
+      \strng{authornamehash}{ab5a89f53b3b4447211a12dac1ad3b33}
+      \strng{authorfullhash}{ab5a89f53b3b4447211a12dac1ad3b33}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1554-1312}
+      \field{journaltitle}{Theoria: historical aspects of music theory}
+      \field{shorttitle}{Romantic thoroughbass}
+      \field{title}{Romantic thoroughbass: music theory between improvisation, composition and performance}
+      \field{volume}{18}
+      \field{year}{2011}
+      \field{pages}{5\bibrangedash 36}
+      \range{pages}{32}
+    \endentry
+    \entry{Dohoney_2017}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5f5d74ab5c22e264077af85d96515c8b}{%
+           family={Dohoney},
+           familyi={D\bibinitperiod},
+           given={Ryan},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Johns Hopkins University Press}%
+      }
+      \strng{namehash}{5f5d74ab5c22e264077af85d96515c8b}
+      \strng{fullhash}{5f5d74ab5c22e264077af85d96515c8b}
+      \strng{bibnamehash}{5f5d74ab5c22e264077af85d96515c8b}
+      \strng{authorbibnamehash}{5f5d74ab5c22e264077af85d96515c8b}
+      \strng{authornamehash}{5f5d74ab5c22e264077af85d96515c8b}
+      \strng{authorfullhash}{5f5d74ab5c22e264077af85d96515c8b}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Modernism/modernity Print Plus}
+      \field{month}{9}
+      \field{title}{Spontaneity, Intimacy, and Friendship in Morton Feldman’s Music of the 1950s}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://modernismmodernity.org/articles/morton-feldman
+      \endverb
+      \verb{url}
+      \verb https://modernismmodernity.org/articles/morton-feldman
+      \endverb
+    \endentry
+    \entry{Dougherty_2014}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b0e62db7a11137aa73ca7ad9371de329}{%
+           family={Dougherty},
+           familyi={D\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{b0e62db7a11137aa73ca7ad9371de329}
+      \strng{fullhash}{b0e62db7a11137aa73ca7ad9371de329}
+      \strng{bibnamehash}{b0e62db7a11137aa73ca7ad9371de329}
+      \strng{authorbibnamehash}{b0e62db7a11137aa73ca7ad9371de329}
+      \strng{authornamehash}{b0e62db7a11137aa73ca7ad9371de329}
+      \strng{authorfullhash}{b0e62db7a11137aa73ca7ad9371de329}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0040-2982}
+      \field{journaltitle}{Tempo}
+      \field{number}{268}
+      \field{shorttitle}{On Horatiu Radulescu's 5th String Quartet}
+      \field{title}{On Horatiu Radulescu’s Fifth String Quartet (`Before the Universe was Born’) Op. 89}
+      \field{volume}{68}
+      \field{year}{2014}
+      \true{nocite}
+      \field{pages}{34\bibrangedash 45}
+      \range{pages}{12}
+    \endentry
+    \entry{Duffie}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5a1af97061e3bdf1737af550c748906d}{%
+           family={Duffie},
+           familyi={D\bibinitperiod},
+           given={Bruce},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5a1af97061e3bdf1737af550c748906d}
+      \strng{fullhash}{5a1af97061e3bdf1737af550c748906d}
+      \strng{bibnamehash}{5a1af97061e3bdf1737af550c748906d}
+      \strng{authorbibnamehash}{5a1af97061e3bdf1737af550c748906d}
+      \strng{authornamehash}{5a1af97061e3bdf1737af550c748906d}
+      \strng{authorfullhash}{5a1af97061e3bdf1737af550c748906d}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Composer Earle Brown: A Conversation with Bruce Duffie}
+      \field{year}{1991}
+      \verb{urlraw}
+      \verb http://www.bruceduffie.com/brown.html
+      \endverb
+      \verb{url}
+      \verb http://www.bruceduffie.com/brown.html
+      \endverb
+    \endentry
+    \entry{Duncan_2010}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ab999f3ef591926ed178a51cf1518e6d}{%
+           family={Duncan},
+           familyi={D\bibinitperiod},
+           given={Stuart\bibnamedelima Paul},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ab999f3ef591926ed178a51cf1518e6d}
+      \strng{fullhash}{ab999f3ef591926ed178a51cf1518e6d}
+      \strng{bibnamehash}{ab999f3ef591926ed178a51cf1518e6d}
+      \strng{authorbibnamehash}{ab999f3ef591926ed178a51cf1518e6d}
+      \strng{authornamehash}{ab999f3ef591926ed178a51cf1518e6d}
+      \strng{authorfullhash}{ab999f3ef591926ed178a51cf1518e6d}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0031-6016}
+      \field{journaltitle}{Perspectives of New Music}
+      \field{number}{1}
+      \field{title}{Re-Complexifying the Function(s) of Notation in the Music of Brian Ferneyhough and the “New Complexity”}
+      \field{volume}{48}
+      \field{year}{2010}
+      \true{nocite}
+      \field{pages}{136\bibrangedash 172}
+      \range{pages}{37}
+    \endentry
+    \entry{Eco_Robey_1989}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=eeb9256075038567a106101346ca2995}{%
+           family={Eco},
+           familyi={E\bibinitperiod},
+           given={Umberto},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c684f51ba1e2aaa028a8bfbaa52da747}{%
+           family={Robey},
+           familyi={R\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=c19bdd8c4313bbdadb5c73276d62b717}{%
+           family={Cancogni},
+           familyi={C\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {Cambridge, Mass}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{ef54161004d9812e8f6ef8b26a293421}
+      \strng{fullhash}{ef54161004d9812e8f6ef8b26a293421}
+      \strng{bibnamehash}{ef54161004d9812e8f6ef8b26a293421}
+      \strng{authorbibnamehash}{ef54161004d9812e8f6ef8b26a293421}
+      \strng{authornamehash}{ef54161004d9812e8f6ef8b26a293421}
+      \strng{authorfullhash}{ef54161004d9812e8f6ef8b26a293421}
+      \strng{editorbibnamehash}{c19bdd8c4313bbdadb5c73276d62b717}
+      \strng{editornamehash}{c19bdd8c4313bbdadb5c73276d62b717}
+      \strng{editorfullhash}{c19bdd8c4313bbdadb5c73276d62b717}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-674-63976-8}
+      \field{month}{4}
+      \field{title}{The Open Work}
+      \field{year}{1989}
+      \true{nocite}
+    \endentry
+    \entry{Ligeti_1965}{book}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=7d7a0c4d4b682f61ae59479b1b968f84}{%
+           family={Ernst},
+           familyi={E\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bfa027bfafd04c9afcf27590c62c3efd}{%
+           family={Carl},
+           familyi={C\bibinitperiod},
+           given={Dahlhaus},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=75772e8eb486aee9c90ed01ac3556617}{%
+           family={György},
+           familyi={G\bibinitperiod},
+           given={Ligeti},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4d8ca3e4c818493b2b1db67ad4aa3e4e}{%
+           family={Roman},
+           familyi={R\bibinitperiod},
+           given={Haubenstock-Ramati},
+           giveni={H\bibinithyphendelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dbd8f1fde997653cbde13fa637a2a243}{%
+           family={Mauricio},
+           familyi={M\bibinitperiod},
+           given={Kagel},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3cd288f66a62bdf8acc4f3297fb95c92}{%
+           family={Earle},
+           familyi={E\bibinitperiod},
+           given={Brown},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5a2076068571e1a75fe4f49ea356be1c}{%
+           family={Siegfried},
+           familyi={S\bibinitperiod},
+           given={Palm},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ff5e99b0a349c3c4b9264824ff301a4}{%
+           family={Aloys},
+           familyi={A\bibinitperiod},
+           given={Kontarsky},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cdece8d79b6a7e4a19ca03dab4da5396}{%
+           family={Christoph},
+           familyi={C\bibinitperiod},
+           given={Caskel},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {ja}%
+      }
+      \list{publisher}{1}{%
+        {B. Schott’s Söhne}%
+      }
+      \strng{namehash}{8e16f963c768fd237ee19ef6f8f45eb5}
+      \strng{fullhash}{24649d317cb8b8f2f6c54bf2e8ccab8e}
+      \strng{bibnamehash}{24649d317cb8b8f2f6c54bf2e8ccab8e}
+      \strng{authorbibnamehash}{24649d317cb8b8f2f6c54bf2e8ccab8e}
+      \strng{authornamehash}{8e16f963c768fd237ee19ef6f8f45eb5}
+      \strng{authorfullhash}{24649d317cb8b8f2f6c54bf2e8ccab8e}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Notation neuer Musik}
+      \field{year}{1965}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://ci.nii.ac.jp/ncid/BA86950051
+      \endverb
+      \verb{url}
+      \verb https://ci.nii.ac.jp/ncid/BA86950051
+      \endverb
+    \endentry
+    \entry{Feldman_1964}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=056452ee9b6d01ccfe81fe14d5531e79}{%
+           family={Feldman},
+           familyi={F\bibinitperiod},
+           given={Morton},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {Glendale, NY}%
+      }
+      \list{publisher}{1}{%
+        {C. F. Peters Corporation}%
+      }
+      \strng{namehash}{056452ee9b6d01ccfe81fe14d5531e79}
+      \strng{fullhash}{056452ee9b6d01ccfe81fe14d5531e79}
+      \strng{bibnamehash}{056452ee9b6d01ccfe81fe14d5531e79}
+      \strng{authorbibnamehash}{056452ee9b6d01ccfe81fe14d5531e79}
+      \strng{authornamehash}{056452ee9b6d01ccfe81fe14d5531e79}
+      \strng{authorfullhash}{056452ee9b6d01ccfe81fe14d5531e79}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{King of Denmark}
+      \field{year}{1965}
+      \true{nocite}
+    \endentry
+    \entry{Feldman_2002}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=056452ee9b6d01ccfe81fe14d5531e79}{%
+           family={Feldman},
+           familyi={F\bibinitperiod},
+           given={Morton},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{publisher}{1}{%
+        {C. F. Peters}%
+      }
+      \strng{namehash}{056452ee9b6d01ccfe81fe14d5531e79}
+      \strng{fullhash}{056452ee9b6d01ccfe81fe14d5531e79}
+      \strng{bibnamehash}{056452ee9b6d01ccfe81fe14d5531e79}
+      \strng{authorbibnamehash}{056452ee9b6d01ccfe81fe14d5531e79}
+      \strng{authornamehash}{056452ee9b6d01ccfe81fe14d5531e79}
+      \strng{authorfullhash}{056452ee9b6d01ccfe81fe14d5531e79}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{9790014053598}
+      \field{title}{Projection 1}
+      \field{year}{1961}
+    \endentry
+    \entry{Ferneyhough_1995}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=703e4946294afb70f422d50d10647de0}{%
+           family={Ferneyhough},
+           familyi={F\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Harwood Academic Publishers}%
+      }
+      \strng{namehash}{703e4946294afb70f422d50d10647de0}
+      \strng{fullhash}{703e4946294afb70f422d50d10647de0}
+      \strng{bibnamehash}{703e4946294afb70f422d50d10647de0}
+      \strng{authorbibnamehash}{703e4946294afb70f422d50d10647de0}
+      \strng{authornamehash}{703e4946294afb70f422d50d10647de0}
+      \strng{authorfullhash}{703e4946294afb70f422d50d10647de0}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-7186-5576-2}
+      \field{title}{Collected Writings}
+      \field{year}{1995}
+      \true{nocite}
+    \endentry
+    \entry{Ferneyhough_1976}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=703e4946294afb70f422d50d10647de0}{%
+           family={Ferneyhough},
+           familyi={F\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Edition Peters}%
+      }
+      \strng{namehash}{703e4946294afb70f422d50d10647de0}
+      \strng{fullhash}{703e4946294afb70f422d50d10647de0}
+      \strng{bibnamehash}{703e4946294afb70f422d50d10647de0}
+      \strng{authorbibnamehash}{703e4946294afb70f422d50d10647de0}
+      \strng{authornamehash}{703e4946294afb70f422d50d10647de0}
+      \strng{authorfullhash}{703e4946294afb70f422d50d10647de0}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Unity Capsule}
+      \field{year}{1976}
+      \true{nocite}
+    \endentry
+    \entry{Griffiths_2011}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=db621f728aac5dc48c44fed57aa32160}{%
+           family={Griffiths},
+           familyi={G\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{db621f728aac5dc48c44fed57aa32160}
+      \strng{fullhash}{db621f728aac5dc48c44fed57aa32160}
+      \strng{bibnamehash}{db621f728aac5dc48c44fed57aa32160}
+      \strng{authorbibnamehash}{db621f728aac5dc48c44fed57aa32160}
+      \strng{authornamehash}{db621f728aac5dc48c44fed57aa32160}
+      \strng{authorfullhash}{db621f728aac5dc48c44fed57aa32160}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3rd edition}
+      \field{isbn}{978-0-19-974050-5}
+      \field{month}{2}
+      \field{title}{Modern Music and After}
+      \field{year}{2011}
+    \endentry
+    \entry{Gutkin}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a3f8d9b4c43fecf7cb2e3576adbc0abd}{%
+           family={Gutkin},
+           familyi={G\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{a3f8d9b4c43fecf7cb2e3576adbc0abd}
+      \strng{fullhash}{a3f8d9b4c43fecf7cb2e3576adbc0abd}
+      \strng{bibnamehash}{a3f8d9b4c43fecf7cb2e3576adbc0abd}
+      \strng{authorbibnamehash}{a3f8d9b4c43fecf7cb2e3576adbc0abd}
+      \strng{authornamehash}{a3f8d9b4c43fecf7cb2e3576adbc0abd}
+      \strng{authorfullhash}{a3f8d9b4c43fecf7cb2e3576adbc0abd}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Perspectives of New Music, Volume 50, Winter/Summer 2012}
+      \field{shorttitle}{Drastic or Plastic?}
+      \field{title}{Drastic or Plastic?: Threads from Karlheinz Stockhausen “Musik und Graphik,” 1959}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.academia.edu/1934849/Drastic\%5For\%5FPlastic\%5FThreads\%5Ffrom\%5FKarlheinz\%5FStockhausens\%5FMusik\%5Fund\%5FGraphik\%5F1959
+      \endverb
+      \verb{url}
+      \verb https://www.academia.edu/1934849/Drastic%5C%5For%5C%5FPlastic%5C%5FThreads%5C%5Ffrom%5C%5FKarlheinz%5C%5FStockhausens%5C%5FMusik%5C%5Fund%5C%5FGraphik%5C%5F1959
+      \endverb
+    \endentry
+    \entry{Heaton_1983}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=031efd70f8a7137d5e52978e8d7c22ba}{%
+           family={Heaton},
+           familyi={H\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{031efd70f8a7137d5e52978e8d7c22ba}
+      \strng{fullhash}{031efd70f8a7137d5e52978e8d7c22ba}
+      \strng{bibnamehash}{031efd70f8a7137d5e52978e8d7c22ba}
+      \strng{authorbibnamehash}{031efd70f8a7137d5e52978e8d7c22ba}
+      \strng{authornamehash}{031efd70f8a7137d5e52978e8d7c22ba}
+      \strng{authorfullhash}{031efd70f8a7137d5e52978e8d7c22ba}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0308-5066}
+      \field{journaltitle}{Contact}
+      \field{title}{Horatiu Radulescu, “Sound Plasma”}
+      \field{volume}{26}
+      \field{year}{1983}
+      \true{nocite}
+    \endentry
+    \entry{Heery_2016}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4a4e694f21e82e7f81d1e0b057401997}{%
+           family={Heery},
+           familyi={H\bibinitperiod},
+           given={Francis},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4a4e694f21e82e7f81d1e0b057401997}
+      \strng{fullhash}{4a4e694f21e82e7f81d1e0b057401997}
+      \strng{bibnamehash}{4a4e694f21e82e7f81d1e0b057401997}
+      \strng{authorbibnamehash}{4a4e694f21e82e7f81d1e0b057401997}
+      \strng{authornamehash}{4a4e694f21e82e7f81d1e0b057401997}
+      \strng{authorfullhash}{4a4e694f21e82e7f81d1e0b057401997}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{978-2-84066-777-3}
+      \field{journaltitle}{Tacet}
+      \field{shorttitle}{Sound Plasma}
+      \field{title}{Sound Plasma: Horatiu Rădulescu’s Oto-utopia}
+      \field{volume}{4}
+      \field{year}{2016}
+      \true{nocite}
+    \endentry
+    \entry{Hucke_1980}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=510a75d78aca576c53671e5ff0eae89d}{%
+           family={Hucke},
+           familyi={H\bibinitperiod},
+           given={Helmut},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {[University of California Press, American Musicological Society]}%
+      }
+      \strng{namehash}{510a75d78aca576c53671e5ff0eae89d}
+      \strng{fullhash}{510a75d78aca576c53671e5ff0eae89d}
+      \strng{bibnamehash}{510a75d78aca576c53671e5ff0eae89d}
+      \strng{authorbibnamehash}{510a75d78aca576c53671e5ff0eae89d}
+      \strng{authornamehash}{510a75d78aca576c53671e5ff0eae89d}
+      \strng{authorfullhash}{510a75d78aca576c53671e5ff0eae89d}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0003-0139}
+      \field{journaltitle}{Journal of the American Musicological Society}
+      \field{number}{3}
+      \field{title}{Toward a New Historical View of Gregorian Chant}
+      \field{volume}{33}
+      \field{year}{1980}
+      \field{pages}{437\bibrangedash 467}
+      \range{pages}{31}
+      \verb{doi}
+      \verb 10.2307/831302
+      \endverb
+    \endentry
+    \entry{Hughes_1987}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0a84f1e4407928a68ada49a4ccd524f6}{%
+           family={Hughes},
+           familyi={H\bibinitperiod},
+           given={David\bibnamedelima G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {[University of California Press, American Musicological Society]}%
+      }
+      \strng{namehash}{0a84f1e4407928a68ada49a4ccd524f6}
+      \strng{fullhash}{0a84f1e4407928a68ada49a4ccd524f6}
+      \strng{bibnamehash}{0a84f1e4407928a68ada49a4ccd524f6}
+      \strng{authorbibnamehash}{0a84f1e4407928a68ada49a4ccd524f6}
+      \strng{authornamehash}{0a84f1e4407928a68ada49a4ccd524f6}
+      \strng{authorfullhash}{0a84f1e4407928a68ada49a4ccd524f6}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0003-0139}
+      \field{journaltitle}{Journal of the American Musicological Society}
+      \field{number}{3}
+      \field{title}{Evidence for the Traditional View of the Transmission of Gregorian Chant}
+      \field{volume}{40}
+      \field{year}{1987}
+      \true{nocite}
+      \field{pages}{377\bibrangedash 404}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.2307/831674
+      \endverb
+    \endentry
+    \entry{CHANTILLY}{misc}{}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IMSLP}
+      \field{title}{Codex Chantilly (Various)}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://imslp.org/wiki/Codex\%5FChantilly\%5F(Various)
+      \endverb
+      \verb{url}
+      \verb https://imslp.org/wiki/Codex%5C%5FChantilly%5C%5F(Various)
+      \endverb
+    \endentry
+    \entry{Ishida_2008}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b8dc4346f6c11e189c4171647208cd6b}{%
+           family={Ishida},
+           familyi={I\bibinitperiod},
+           given={Noriko},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{b8dc4346f6c11e189c4171647208cd6b}
+      \strng{fullhash}{b8dc4346f6c11e189c4171647208cd6b}
+      \strng{bibnamehash}{b8dc4346f6c11e189c4171647208cd6b}
+      \strng{authorbibnamehash}{b8dc4346f6c11e189c4171647208cd6b}
+      \strng{authornamehash}{b8dc4346f6c11e189c4171647208cd6b}
+      \strng{authorfullhash}{b8dc4346f6c11e189c4171647208cd6b}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0006-2294, 2213-4379}
+      \field{journaltitle}{Bijdragen tot de taal-, land- en volkenkunde / Journal of the Humanities and Social Sciences of Southeast Asia}
+      \field{month}{1}
+      \field{number}{4}
+      \field{title}{The textures of Central Javanese gamelan music: Pre-notation and its discontents}
+      \field{volume}{164}
+      \field{year}{2008}
+      \true{nocite}
+      \field{pages}{475\bibrangedash 499}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1163/22134379-90003652
+      \endverb
+    \endentry
+    \entry{Jost_1994}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8a1c7d9308aa90962103b9bef6112bea}{%
+           family={Jost},
+           familyi={J\bibinitperiod},
+           given={Ekkehard},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Da Capo Press}%
+      }
+      \strng{namehash}{8a1c7d9308aa90962103b9bef6112bea}
+      \strng{fullhash}{8a1c7d9308aa90962103b9bef6112bea}
+      \strng{bibnamehash}{8a1c7d9308aa90962103b9bef6112bea}
+      \strng{authorbibnamehash}{8a1c7d9308aa90962103b9bef6112bea}
+      \strng{authornamehash}{8a1c7d9308aa90962103b9bef6112bea}
+      \strng{authorfullhash}{8a1c7d9308aa90962103b9bef6112bea}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-306-80556-1}
+      \field{title}{Free Jazz}
+      \field{year}{1994}
+      \true{nocite}
+    \endentry
+    \entry{Kanno_2007}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c4a996cd295159e52deeb9114ade2db5}{%
+           family={Kanno},
+           familyi={K\bibinitperiod},
+           given={Mieko},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{c4a996cd295159e52deeb9114ade2db5}
+      \strng{fullhash}{c4a996cd295159e52deeb9114ade2db5}
+      \strng{bibnamehash}{c4a996cd295159e52deeb9114ade2db5}
+      \strng{authorbibnamehash}{c4a996cd295159e52deeb9114ade2db5}
+      \strng{authornamehash}{c4a996cd295159e52deeb9114ade2db5}
+      \strng{authorfullhash}{c4a996cd295159e52deeb9114ade2db5}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0749-4467}
+      \field{journaltitle}{Contemporary Music Review}
+      \field{month}{4}
+      \field{number}{2}
+      \field{title}{Prescriptive notation: Limits and challenges}
+      \field{volume}{26}
+      \field{year}{2007}
+      \field{pages}{231\bibrangedash 254}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1080/07494460701250890
+      \endverb
+    \endentry
+    \entry{Arezzo_1943}{thesis}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5344d1c108ac05ad3ee2df685fb217b4}{%
+           family={La\bibnamedelima Duke},
+           familyi={L\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={Leone\bibnamedelima Bernice},
+           giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f429c85e4f7d5c659b7a1023398381d7}{%
+           family={d'Arezzo},
+           familyi={d\bibinitperiod},
+           given={Guido},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {University of Oregon}%
+      }
+      \strng{namehash}{375219767830e20948efd146fb9d3805}
+      \strng{fullhash}{375219767830e20948efd146fb9d3805}
+      \strng{bibnamehash}{375219767830e20948efd146fb9d3805}
+      \strng{authorbibnamehash}{375219767830e20948efd146fb9d3805}
+      \strng{authornamehash}{375219767830e20948efd146fb9d3805}
+      \strng{authorfullhash}{375219767830e20948efd146fb9d3805}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{note}{Accepted: 2009-10-23}
+      \field{shorttitle}{Micrologus (1943)}
+      \field{title}{Micrologus}
+      \field{type}{Thesis}
+      \field{year}{1943}
+      \verb{urlraw}
+      \verb https://scholarsbank.uoregon.edu/xmlui/handle/1794/9888
+      \endverb
+      \verb{url}
+      \verb https://scholarsbank.uoregon.edu/xmlui/handle/1794/9888
+      \endverb
+    \endentry
+    \entry{Lachenmann_1969}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=65fbda3a2958967ad3aca55d06488aa0}{%
+           family={Lachenmann},
+           familyi={L\bibinitperiod},
+           given={Helmut},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden, Leipzig, Paris}%
+      }
+      \list{publisher}{1}{%
+        {Breitkopf \& Härtel}%
+      }
+      \strng{namehash}{65fbda3a2958967ad3aca55d06488aa0}
+      \strng{fullhash}{65fbda3a2958967ad3aca55d06488aa0}
+      \strng{bibnamehash}{65fbda3a2958967ad3aca55d06488aa0}
+      \strng{authorbibnamehash}{65fbda3a2958967ad3aca55d06488aa0}
+      \strng{authornamehash}{65fbda3a2958967ad3aca55d06488aa0}
+      \strng{authorfullhash}{65fbda3a2958967ad3aca55d06488aa0}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Pression}
+      \field{year}{1969}
+      \true{nocite}
+    \endentry
+    \entry{Lewis_1977}{book}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=316018882f7809b91c6618437e637245}{%
+           family={Lewis},
+           familyi={L\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Edition Peters}%
+      }
+      \strng{namehash}{316018882f7809b91c6618437e637245}
+      \strng{fullhash}{316018882f7809b91c6618437e637245}
+      \strng{bibnamehash}{316018882f7809b91c6618437e637245}
+      \strng{authorbibnamehash}{316018882f7809b91c6618437e637245}
+      \strng{authornamehash}{316018882f7809b91c6618437e637245}
+      \strng{authorfullhash}{316018882f7809b91c6618437e637245}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Shadowgraph, 5}
+      \field{year}{1977}
+      \true{nocite}
+    \endentry
+    \entry{Lewis_2007}{article}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=7dfade2c6a29ef104c6d42a9b2f059d7}{%
+           family={Lewis},
+           familyi={L\bibinitperiod},
+           given={George\bibnamedelima E.},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{7dfade2c6a29ef104c6d42a9b2f059d7}
+      \strng{fullhash}{7dfade2c6a29ef104c6d42a9b2f059d7}
+      \strng{bibnamehash}{7dfade2c6a29ef104c6d42a9b2f059d7}
+      \strng{authorbibnamehash}{7dfade2c6a29ef104c6d42a9b2f059d7}
+      \strng{authornamehash}{7dfade2c6a29ef104c6d42a9b2f059d7}
+      \strng{authorfullhash}{7dfade2c6a29ef104c6d42a9b2f059d7}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1712-0624}
+      \field{journaltitle}{Critical Studies in Improvisation / Études critiques en improvisation}
+      \field{month}{12}
+      \field{number}{22}
+      \field{shorttitle}{Improvisation and Pedagogy}
+      \field{title}{Improvisation and Pedagogy: Background and Focus of Inquiry}
+      \field{volume}{3}
+      \field{year}{2007}
+      \verb{doi}
+      \verb 10.21083/csieci.v3i2.412
+      \endverb
+      \verb{urlraw}
+      \verb https://www.criticalimprov.com/index.php/csieci/article/view/412
+      \endverb
+      \verb{url}
+      \verb https://www.criticalimprov.com/index.php/csieci/article/view/412
+      \endverb
+    \endentry
+    \entry{Ligeti_forthcoming}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d36e8494f12978493813063cc7b4c3ea}{%
+           family={Ligeti},
+           familyi={L\bibinitperiod},
+           given={György},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=db621f728aac5dc48c44fed57aa32160}{%
+           family={Griffiths},
+           familyi={G\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=b857c88de4563bdfda296ee05b23e99c}{%
+           family={Griffiths},
+           familyi={G\bibinitperiod},
+           given={Edmund},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{d36e8494f12978493813063cc7b4c3ea}
+      \strng{fullhash}{d36e8494f12978493813063cc7b4c3ea}
+      \strng{bibnamehash}{d36e8494f12978493813063cc7b4c3ea}
+      \strng{authorbibnamehash}{d36e8494f12978493813063cc7b4c3ea}
+      \strng{authornamehash}{d36e8494f12978493813063cc7b4c3ea}
+      \strng{authorfullhash}{d36e8494f12978493813063cc7b4c3ea}
+      \strng{editorbibnamehash}{db621f728aac5dc48c44fed57aa32160}
+      \strng{editornamehash}{db621f728aac5dc48c44fed57aa32160}
+      \strng{editorfullhash}{db621f728aac5dc48c44fed57aa32160}
+      \strng{translatorbibnamehash}{b857c88de4563bdfda296ee05b23e99c}
+      \strng{translatornamehash}{b857c88de4563bdfda296ee05b23e99c}
+      \strng{translatorfullhash}{b857c88de4563bdfda296ee05b23e99c}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{The Illusion Machine (forthcoming)}
+      \field{title}{The Illusion Machine: Selected Writings of György Ligeti (forthcoming)}
+      \true{nocite}
+    \endentry
+    \entry{Lock_2008}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7e181235b0b9312105a501d4387c8d5f}{%
+           family={Lock},
+           familyi={L\bibinitperiod},
+           given={Graham},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7e181235b0b9312105a501d4387c8d5f}
+      \strng{fullhash}{7e181235b0b9312105a501d4387c8d5f}
+      \strng{bibnamehash}{7e181235b0b9312105a501d4387c8d5f}
+      \strng{authorbibnamehash}{7e181235b0b9312105a501d4387c8d5f}
+      \strng{authornamehash}{7e181235b0b9312105a501d4387c8d5f}
+      \strng{authorfullhash}{7e181235b0b9312105a501d4387c8d5f}
+      \field{extraname}{1}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Critical Studies in Improvisation / Études critiques en improvisation}
+      \field{month}{5}
+      \field{shorttitle}{`What I Call a Sound'}
+      \field{title}{`What I Call a Sound': Anthony Braxton’s Synaesthetic Ideal and Notations for Improvisers}
+      \field{volume}{4}
+      \field{year}{2008}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.21083/csieci.v4i1.462
+      \endverb
+    \endentry
+    \entry{Lock_2000}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7e181235b0b9312105a501d4387c8d5f}{%
+           family={Lock},
+           familyi={L\bibinitperiod},
+           given={Graham},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {Durham}%
+      }
+      \list{publisher}{1}{%
+        {Duke University Press Books}%
+      }
+      \strng{namehash}{7e181235b0b9312105a501d4387c8d5f}
+      \strng{fullhash}{7e181235b0b9312105a501d4387c8d5f}
+      \strng{bibnamehash}{7e181235b0b9312105a501d4387c8d5f}
+      \strng{authorbibnamehash}{7e181235b0b9312105a501d4387c8d5f}
+      \strng{authornamehash}{7e181235b0b9312105a501d4387c8d5f}
+      \strng{authorfullhash}{7e181235b0b9312105a501d4387c8d5f}
+      \field{extraname}{2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-0-8223-2440-9}
+      \field{month}{1}
+      \field{shorttitle}{Blutopia}
+      \field{title}{Blutopia: Visions of the Future and Revisions of the Past in the Work of Sun Ra, Duke Ellington, and Anthony Braxton}
+      \field{year}{2000}
+      \true{nocite}
+    \endentry
+    \entry{Lock_1989}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7e181235b0b9312105a501d4387c8d5f}{%
+           family={Lock},
+           familyi={L\bibinitperiod},
+           given={Graham},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {New York, N.Y}%
+      }
+      \list{publisher}{1}{%
+        {Da Capo Press}%
+      }
+      \strng{namehash}{7e181235b0b9312105a501d4387c8d5f}
+      \strng{fullhash}{7e181235b0b9312105a501d4387c8d5f}
+      \strng{bibnamehash}{7e181235b0b9312105a501d4387c8d5f}
+      \strng{authorbibnamehash}{7e181235b0b9312105a501d4387c8d5f}
+      \strng{authornamehash}{7e181235b0b9312105a501d4387c8d5f}
+      \strng{authorfullhash}{7e181235b0b9312105a501d4387c8d5f}
+      \field{extraname}{3}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{edition}{New Edition}
+      \field{isbn}{978-0-306-80342-0}
+      \field{month}{3}
+      \field{shorttitle}{Forces in Motion}
+      \field{title}{Forces in Motion: The Music And Thoughts Of Anthony Braxton}
+      \field{year}{1989}
+      \true{nocite}
+    \endentry
+    \entry{Lusitano_1561}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=77607a3188a8e041b0dfa4376bcfb574}{%
+           family={Lusitano},
+           familyi={L\bibinitperiod},
+           given={Vicente},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Venice}%
+      }
+      \list{publisher}{1}{%
+        {Francesco Rampazetto}%
+      }
+      \strng{namehash}{77607a3188a8e041b0dfa4376bcfb574}
+      \strng{fullhash}{77607a3188a8e041b0dfa4376bcfb574}
+      \strng{bibnamehash}{77607a3188a8e041b0dfa4376bcfb574}
+      \strng{authorbibnamehash}{77607a3188a8e041b0dfa4376bcfb574}
+      \strng{authornamehash}{77607a3188a8e041b0dfa4376bcfb574}
+      \strng{authorfullhash}{77607a3188a8e041b0dfa4376bcfb574}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3rd}
+      \field{title}{Introduttione facilissima, et novissima, di canto fermo, figurato, contraponto semplice, et in concerto}
+      \field{year}{1561}
+    \endentry
+    \entry{Lutteken_2020}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c8730732b46387716ca20529356b3f80}{%
+           family={Lutteken},
+           familyi={L\bibinitperiod},
+           given={Laurenz},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=2eed804ddee78bbf99e015327117e4c7}{%
+           family={Berger},
+           familyi={B\bibinitperiod},
+           given={Anna\bibnamedelimb Maria\bibnamedelima Busse},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=698dfb31c4e4bc5054174b8859564283}{%
+           family={Rodin},
+           familyi={R\bibinitperiod},
+           given={Jesse},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{c8730732b46387716ca20529356b3f80}
+      \strng{fullhash}{c8730732b46387716ca20529356b3f80}
+      \strng{bibnamehash}{c8730732b46387716ca20529356b3f80}
+      \strng{authorbibnamehash}{c8730732b46387716ca20529356b3f80}
+      \strng{authornamehash}{c8730732b46387716ca20529356b3f80}
+      \strng{authorfullhash}{c8730732b46387716ca20529356b3f80}
+      \strng{editorbibnamehash}{a3305c9fdead004506bac151dd49ce42}
+      \strng{editornamehash}{a3305c9fdead004506bac151dd49ce42}
+      \strng{editorfullhash}{a3305c9fdead004506bac151dd49ce42}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Cambridge History of Fifteenth-Century Music}
+      \field{isbn}{978-1-108-79188-5}
+      \field{month}{1}
+      \field{title}{The work concept}
+      \field{year}{2020}
+      \field{pages}{55\bibrangedash 67}
+      \range{pages}{13}
+    \endentry
+    \entry{debbielyddon_2015}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b9c87a1fb63faea8df13377ba2b33c07}{%
+           family={Lyddon},
+           familyi={L\bibinitperiod},
+           given={Debbie},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{b9c87a1fb63faea8df13377ba2b33c07}
+      \strng{fullhash}{b9c87a1fb63faea8df13377ba2b33c07}
+      \strng{bibnamehash}{b9c87a1fb63faea8df13377ba2b33c07}
+      \strng{authorbibnamehash}{b9c87a1fb63faea8df13377ba2b33c07}
+      \strng{authornamehash}{b9c87a1fb63faea8df13377ba2b33c07}
+      \strng{authorfullhash}{b9c87a1fb63faea8df13377ba2b33c07}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{debbie lyddon}
+      \field{month}{5}
+      \field{title}{Notations – seeing sound}
+      \field{year}{2015}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://debbielyddon.wordpress.com/2015/05/18/notations-seeing-sound/
+      \endverb
+      \verb{url}
+      \verb https://debbielyddon.wordpress.com/2015/05/18/notations-seeing-sound/
+      \endverb
+    \endentry
+    \entry{Mitchell_1978}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0d3da16b3dcfb0586ebc58a3436f0f64}{%
+           family={Mitchell},
+           familyi={M\bibinitperiod},
+           given={Roscoe},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nessa Records}%
+      }
+      \strng{namehash}{0d3da16b3dcfb0586ebc58a3436f0f64}
+      \strng{fullhash}{0d3da16b3dcfb0586ebc58a3436f0f64}
+      \strng{bibnamehash}{0d3da16b3dcfb0586ebc58a3436f0f64}
+      \strng{authorbibnamehash}{0d3da16b3dcfb0586ebc58a3436f0f64}
+      \strng{authornamehash}{0d3da16b3dcfb0586ebc58a3436f0f64}
+      \strng{authorfullhash}{0d3da16b3dcfb0586ebc58a3436f0f64}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Vinyl}
+      \field{title}{L-R-G / The Maze / S II Examples}
+      \field{year}{1978}
+      \true{nocite}
+    \endentry
+    \entry{Moore_1992}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=42b976e4c658856881319a7fdecd42e4}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={Robin},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Croatian Musicological Society}%
+      }
+      \strng{namehash}{42b976e4c658856881319a7fdecd42e4}
+      \strng{fullhash}{42b976e4c658856881319a7fdecd42e4}
+      \strng{bibnamehash}{42b976e4c658856881319a7fdecd42e4}
+      \strng{authorbibnamehash}{42b976e4c658856881319a7fdecd42e4}
+      \strng{authornamehash}{42b976e4c658856881319a7fdecd42e4}
+      \strng{authorfullhash}{42b976e4c658856881319a7fdecd42e4}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0351-5796}
+      \field{journaltitle}{International Review of the Aesthetics and Sociology of Music}
+      \field{number}{1}
+      \field{shorttitle}{The Decline of Improvisation}
+      \field{title}{The Decline of Improvisation in Western Art Music: An Interpretation of Change}
+      \field{volume}{23}
+      \field{year}{1992}
+      \field{pages}{61\bibrangedash 84}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.2307/836956
+      \endverb
+    \endentry
+    \entry{Morris_2017}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bd14b14dc15c237c3b4d156e8473f23f}{%
+           family={Morris},
+           familyi={M\bibinitperiod},
+           given={Lawrence\bibnamedelimb D.\bibnamedelimi ``Butch''},
+           giveni={L\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim ``\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Karma}%
+      }
+      \strng{namehash}{bd14b14dc15c237c3b4d156e8473f23f}
+      \strng{fullhash}{bd14b14dc15c237c3b4d156e8473f23f}
+      \strng{bibnamehash}{bd14b14dc15c237c3b4d156e8473f23f}
+      \strng{authorbibnamehash}{bd14b14dc15c237c3b4d156e8473f23f}
+      \strng{authornamehash}{bd14b14dc15c237c3b4d156e8473f23f}
+      \strng{authorfullhash}{bd14b14dc15c237c3b4d156e8473f23f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{The Art of Conduction}
+      \field{title}{The Art of Conduction -- a Conduction$^{®}$ Workbook}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{Radulescu_1993}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0ef88b667762199c68789f035950fb41}{%
+           family={Rădulescu},
+           familyi={R\bibinitperiod},
+           given={Horațiu},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Lucero Print}%
+      }
+      \strng{namehash}{0ef88b667762199c68789f035950fb41}
+      \strng{fullhash}{0ef88b667762199c68789f035950fb41}
+      \strng{bibnamehash}{0ef88b667762199c68789f035950fb41}
+      \strng{authorbibnamehash}{0ef88b667762199c68789f035950fb41}
+      \strng{authornamehash}{0ef88b667762199c68789f035950fb41}
+      \strng{authorfullhash}{0ef88b667762199c68789f035950fb41}
+      \field{extraname}{1}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{Op. 89}
+      \field{title}{Before the Universe was Born, Op. 89}
+      \field{year}{1993}
+      \true{nocite}
+    \endentry
+    \entry{Radulescu_1984}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0ef88b667762199c68789f035950fb41}{%
+           family={Rădulescu},
+           familyi={R\bibinitperiod},
+           given={Horațiu},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Lucero Print}%
+      }
+      \strng{namehash}{0ef88b667762199c68789f035950fb41}
+      \strng{fullhash}{0ef88b667762199c68789f035950fb41}
+      \strng{bibnamehash}{0ef88b667762199c68789f035950fb41}
+      \strng{authorbibnamehash}{0ef88b667762199c68789f035950fb41}
+      \strng{authornamehash}{0ef88b667762199c68789f035950fb41}
+      \strng{authorfullhash}{0ef88b667762199c68789f035950fb41}
+      \field{extraname}{2}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Das Andere}
+      \field{year}{1984}
+      \true{nocite}
+    \endentry
+    \entry{Radulescu_1975}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0ef88b667762199c68789f035950fb41}{%
+           family={Rădulescu},
+           familyi={R\bibinitperiod},
+           given={Horațiu},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Munich}%
+      }
+      \list{publisher}{1}{%
+        {Edition Modern}%
+      }
+      \strng{namehash}{0ef88b667762199c68789f035950fb41}
+      \strng{fullhash}{0ef88b667762199c68789f035950fb41}
+      \strng{bibnamehash}{0ef88b667762199c68789f035950fb41}
+      \strng{authorbibnamehash}{0ef88b667762199c68789f035950fb41}
+      \strng{authornamehash}{0ef88b667762199c68789f035950fb41}
+      \strng{authorfullhash}{0ef88b667762199c68789f035950fb41}
+      \field{extraname}{3}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sound Plasma: Music of the Future Sign}
+      \field{year}{1975}
+      \true{nocite}
+    \endentry
+    \entry{Reisenweaver_2012}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7884c9abacb44a090285683ee0dfd2f9}{%
+           family={Reisenweaver},
+           familyi={R\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7884c9abacb44a090285683ee0dfd2f9}
+      \strng{fullhash}{7884c9abacb44a090285683ee0dfd2f9}
+      \strng{bibnamehash}{7884c9abacb44a090285683ee0dfd2f9}
+      \strng{authorbibnamehash}{7884c9abacb44a090285683ee0dfd2f9}
+      \strng{authornamehash}{7884c9abacb44a090285683ee0dfd2f9}
+      \strng{authorfullhash}{7884c9abacb44a090285683ee0dfd2f9}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2167-3799}
+      \field{journaltitle}{Musical Offerings}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Guido of Arezzo and His Influence on Music Learning}
+      \field{volume}{3}
+      \field{year}{2012}
+      \verb{doi}
+      \verb 10.15385/jmo.2012.3.1.4
+      \endverb
+      \verb{urlraw}
+      \verb https://digitalcommons.cedarville.edu/musicalofferings/vol3/iss1/4
+      \endverb
+      \verb{url}
+      \verb https://digitalcommons.cedarville.edu/musicalofferings/vol3/iss1/4
+      \endverb
+    \endentry
+    \entry{Revis_2020}{music}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bfd99c31495eef391011eee6f7502297}{%
+           family={Revis},
+           familyi={R\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{bookauthor}{1}{}{%
+        {{hash=bfd99c31495eef391011eee6f7502297}{%
+           family={Revis},
+           familyi={R\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pyroclastic Records}%
+      }
+      \strng{namehash}{bfd99c31495eef391011eee6f7502297}
+      \strng{fullhash}{bfd99c31495eef391011eee6f7502297}
+      \strng{bibnamehash}{bfd99c31495eef391011eee6f7502297}
+      \strng{authorbibnamehash}{bfd99c31495eef391011eee6f7502297}
+      \strng{authornamehash}{bfd99c31495eef391011eee6f7502297}
+      \strng{authorfullhash}{bfd99c31495eef391011eee6f7502297}
+      \strng{bookauthorbibnamehash}{bfd99c31495eef391011eee6f7502297}
+      \strng{bookauthornamehash}{bfd99c31495eef391011eee6f7502297}
+      \strng{bookauthorfullhash}{bfd99c31495eef391011eee6f7502297}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Slipknots Through a Looking Glass}
+      \field{chapter}{7}
+      \field{howpublished}{CD}
+      \field{title}{Slipknots Through a Looking Glass, Part 2}
+      \field{year}{2020}
+      \true{nocite}
+    \endentry
+    \entry{Rosen_1970}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2f2b004156bdc5cc6bd1c37b0838222a}{%
+           family={Rosen},
+           familyi={R\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Musical Times Publications Ltd.}%
+      }
+      \strng{namehash}{2f2b004156bdc5cc6bd1c37b0838222a}
+      \strng{fullhash}{2f2b004156bdc5cc6bd1c37b0838222a}
+      \strng{bibnamehash}{2f2b004156bdc5cc6bd1c37b0838222a}
+      \strng{authorbibnamehash}{2f2b004156bdc5cc6bd1c37b0838222a}
+      \strng{authornamehash}{2f2b004156bdc5cc6bd1c37b0838222a}
+      \strng{authorfullhash}{2f2b004156bdc5cc6bd1c37b0838222a}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0027-4666}
+      \field{journaltitle}{The Musical Times}
+      \field{number}{1534}
+      \field{title}{Ornament and Structure in Beethoven}
+      \field{volume}{111}
+      \field{year}{1970}
+      \field{pages}{1198\bibrangedash 1201}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.2307/955820
+      \endverb
+    \endentry
+    \entry{Rotem_2022}{online}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=15043973599b9a7cc6da32ec43fd3bd7}{%
+           family={Rotem},
+           familyi={R\bibinitperiod},
+           given={Elam},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a80cf85be1426907a5f287d0b4a922b}{%
+           family={Braithwaite},
+           familyi={B\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=290bd7cc59129e7b86cbfc4f83d7a419}{%
+           family={Motuz},
+           familyi={M\bibinitperiod},
+           given={Catherine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=86990a08eb3b67c0db6382b761191439}{%
+           family={Schubert},
+           familyi={S\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \strng{namehash}{52823b556997cd154bef2bd4576a966f}
+      \strng{fullhash}{adef78505760de10a4d8c77f662c21d1}
+      \strng{bibnamehash}{adef78505760de10a4d8c77f662c21d1}
+      \strng{authorbibnamehash}{adef78505760de10a4d8c77f662c21d1}
+      \strng{authornamehash}{52823b556997cd154bef2bd4576a966f}
+      \strng{authorfullhash}{adef78505760de10a4d8c77f662c21d1}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Early Music Sources}
+      \field{month}{9}
+      \field{title}{Cantare Super Librum}
+      \field{urlday}{30}
+      \field{urlmonth}{6}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.earlymusicsources.com/youtube/cantaresuperlibrum
+      \endverb
+      \verb{url}
+      \verb https://www.earlymusicsources.com/youtube/cantaresuperlibrum
+      \endverb
+    \endentry
+    \entry{Ryan_2002}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=83eaa2d1c79f7dc8b95946cf63747550}{%
+           family={Ryan},
+           familyi={R\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en-GB}%
+      }
+      \strng{namehash}{83eaa2d1c79f7dc8b95946cf63747550}
+      \strng{fullhash}{83eaa2d1c79f7dc8b95946cf63747550}
+      \strng{bibnamehash}{83eaa2d1c79f7dc8b95946cf63747550}
+      \strng{authorbibnamehash}{83eaa2d1c79f7dc8b95946cf63747550}
+      \strng{authornamehash}{83eaa2d1c79f7dc8b95946cf63747550}
+      \strng{authorfullhash}{83eaa2d1c79f7dc8b95946cf63747550}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0261-3077}
+      \field{journaltitle}{The Guardian}
+      \field{month}{8}
+      \field{title}{Earle Brown}
+      \field{year}{2002}
+      \verb{urlraw}
+      \verb https://www.theguardian.com/news/2002/aug/22/guardianobituaries.arts
+      \endverb
+      \verb{url}
+      \verb https://www.theguardian.com/news/2002/aug/22/guardianobituaries.arts
+      \endverb
+    \endentry
+    \entry{SA16}{misc}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{title}{SA16: The Anthony Braxton Issue}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://archive.soundamerican.org/phone/index.html
+      \endverb
+      \verb{url}
+      \verb http://archive.soundamerican.org/phone/index.html
+      \endverb
+    \endentry
+    \entry{Schuiling_2019}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=75cb0c061b05a3898947c5f1f493da28}{%
+           family={Schuiling},
+           familyi={S\bibinitperiod},
+           given={Floris},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{75cb0c061b05a3898947c5f1f493da28}
+      \strng{fullhash}{75cb0c061b05a3898947c5f1f493da28}
+      \strng{bibnamehash}{75cb0c061b05a3898947c5f1f493da28}
+      \strng{authorbibnamehash}{75cb0c061b05a3898947c5f1f493da28}
+      \strng{authornamehash}{75cb0c061b05a3898947c5f1f493da28}
+      \strng{authorfullhash}{75cb0c061b05a3898947c5f1f493da28}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0269-0403}
+      \field{journaltitle}{Journal of the Royal Musical Association}
+      \field{month}{7}
+      \field{number}{2}
+      \field{shorttitle}{Notation Cultures}
+      \field{title}{Notation Cultures: Towards an Ethnomusicology of Notation}
+      \field{volume}{144}
+      \field{year}{2019}
+      \field{pages}{429\bibrangedash 458}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.1080/02690403.2019.1651508
+      \endverb
+    \endentry
+    \entry{Seeger_1958}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e69438ab4ce881ff3ccfe60f4b601908}{%
+           family={Seeger},
+           familyi={S\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{e69438ab4ce881ff3ccfe60f4b601908}
+      \strng{fullhash}{e69438ab4ce881ff3ccfe60f4b601908}
+      \strng{bibnamehash}{e69438ab4ce881ff3ccfe60f4b601908}
+      \strng{authorbibnamehash}{e69438ab4ce881ff3ccfe60f4b601908}
+      \strng{authornamehash}{e69438ab4ce881ff3ccfe60f4b601908}
+      \strng{authorfullhash}{e69438ab4ce881ff3ccfe60f4b601908}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0027-4631}
+      \field{journaltitle}{The Musical Quarterly}
+      \field{number}{2}
+      \field{title}{Prescriptive and Descriptive Music-Writing}
+      \field{volume}{44}
+      \field{year}{1958}
+      \field{pages}{184\bibrangedash 195}
+      \range{pages}{12}
+    \endentry
+    \entry{Steinbeck_2018}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4ab4ba876364aee994d7ac35a1ac8731}{%
+           family={Steinbeck},
+           familyi={S\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4ab4ba876364aee994d7ac35a1ac8731}
+      \strng{fullhash}{4ab4ba876364aee994d7ac35a1ac8731}
+      \strng{bibnamehash}{4ab4ba876364aee994d7ac35a1ac8731}
+      \strng{authorbibnamehash}{4ab4ba876364aee994d7ac35a1ac8731}
+      \strng{authornamehash}{4ab4ba876364aee994d7ac35a1ac8731}
+      \strng{authorfullhash}{4ab4ba876364aee994d7ac35a1ac8731}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0022-2909}
+      \field{journaltitle}{Journal of Music Theory}
+      \field{month}{10}
+      \field{number}{2}
+      \field{shorttitle}{Anthony Braxton's Comp. 76}
+      \field{title}{Improvisation and Collaboration in Anthony Braxton’s Composition 76}
+      \field{volume}{62}
+      \field{year}{2018}
+      \true{nocite}
+      \field{pages}{249\bibrangedash 278}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.1215/00222909-7127682
+      \endverb
+    \endentry
+    \entry{Suckling_2018}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=609b24d1666fdd891027b98541af13f8}{%
+           family={Suckling},
+           familyi={S\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{609b24d1666fdd891027b98541af13f8}
+      \strng{fullhash}{609b24d1666fdd891027b98541af13f8}
+      \strng{bibnamehash}{609b24d1666fdd891027b98541af13f8}
+      \strng{authorbibnamehash}{609b24d1666fdd891027b98541af13f8}
+      \strng{authornamehash}{609b24d1666fdd891027b98541af13f8}
+      \strng{authorfullhash}{609b24d1666fdd891027b98541af13f8}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0040-2982, 1478-2286}
+      \field{journaltitle}{Tempo}
+      \field{month}{7}
+      \field{number}{285}
+      \field{title}{Rădulescu: The Other Spectralist}
+      \field{volume}{72}
+      \field{year}{2018}
+      \true{nocite}
+      \field{pages}{20\bibrangedash 40}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1017/S0040298218000074
+      \endverb
+    \endentry
+    \entry{Swain_1988}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=296f77bc8345126e0e436c041e1a270f}{%
+           family={Swain},
+           familyi={S\bibinitperiod},
+           given={Joseph\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of California Press}%
+      }
+      \strng{namehash}{296f77bc8345126e0e436c041e1a270f}
+      \strng{fullhash}{296f77bc8345126e0e436c041e1a270f}
+      \strng{bibnamehash}{296f77bc8345126e0e436c041e1a270f}
+      \strng{authorbibnamehash}{296f77bc8345126e0e436c041e1a270f}
+      \strng{authornamehash}{296f77bc8345126e0e436c041e1a270f}
+      \strng{authorfullhash}{296f77bc8345126e0e436c041e1a270f}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0277-9269}
+      \field{journaltitle}{The Journal of Musicology}
+      \field{number}{1}
+      \field{title}{Form and Function of the Classical Cadenza}
+      \field{volume}{6}
+      \field{year}{1988}
+      \field{pages}{27\bibrangedash 59}
+      \range{pages}{33}
+      \verb{doi}
+      \verb 10.2307/763668
+      \endverb
+    \endentry
+    \entry{Taruskin_2009}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5a7d2abebb9eb6f9a8f0b28974157caa}{%
+           family={Taruskin},
+           familyi={T\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{5a7d2abebb9eb6f9a8f0b28974157caa}
+      \strng{fullhash}{5a7d2abebb9eb6f9a8f0b28974157caa}
+      \strng{bibnamehash}{5a7d2abebb9eb6f9a8f0b28974157caa}
+      \strng{authorbibnamehash}{5a7d2abebb9eb6f9a8f0b28974157caa}
+      \strng{authornamehash}{5a7d2abebb9eb6f9a8f0b28974157caa}
+      \strng{authorfullhash}{5a7d2abebb9eb6f9a8f0b28974157caa}
+      \field{extraname}{1}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{edition}{Revised ed. edition}
+      \field{isbn}{978-0-19-538481-9}
+      \field{month}{7}
+      \field{shorttitle}{Music from the Earliest Notations to the 16th Century}
+      \field{title}{Music from the Earliest Notations to the Sixteenth Century: The Oxford History of Western Music}
+      \field{year}{2009}
+    \endentry
+    \entry{Taruskin_2009d}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5a7d2abebb9eb6f9a8f0b28974157caa}{%
+           family={Taruskin},
+           familyi={T\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{5a7d2abebb9eb6f9a8f0b28974157caa}
+      \strng{fullhash}{5a7d2abebb9eb6f9a8f0b28974157caa}
+      \strng{bibnamehash}{5a7d2abebb9eb6f9a8f0b28974157caa}
+      \strng{authorbibnamehash}{5a7d2abebb9eb6f9a8f0b28974157caa}
+      \strng{authornamehash}{5a7d2abebb9eb6f9a8f0b28974157caa}
+      \strng{authorfullhash}{5a7d2abebb9eb6f9a8f0b28974157caa}
+      \field{extraname}{2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{edition}{Revised ed. edition}
+      \field{isbn}{978-0-19-538485-7}
+      \field{month}{7}
+      \field{shorttitle}{Music in the Late Twentieth Century}
+      \field{title}{Music in the Late Twentieth Century: The Oxford History of Western Music}
+      \field{year}{2009}
+    \endentry
+    \entry{Taruskin_2009a}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5a7d2abebb9eb6f9a8f0b28974157caa}{%
+           family={Taruskin},
+           familyi={T\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {Oxford; New York}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{5a7d2abebb9eb6f9a8f0b28974157caa}
+      \strng{fullhash}{5a7d2abebb9eb6f9a8f0b28974157caa}
+      \strng{bibnamehash}{5a7d2abebb9eb6f9a8f0b28974157caa}
+      \strng{authorbibnamehash}{5a7d2abebb9eb6f9a8f0b28974157caa}
+      \strng{authornamehash}{5a7d2abebb9eb6f9a8f0b28974157caa}
+      \strng{authorfullhash}{5a7d2abebb9eb6f9a8f0b28974157caa}
+      \field{extraname}{3}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{edition}{Illustrated edition}
+      \field{isbn}{978-0-19-538483-3}
+      \field{month}{7}
+      \field{shorttitle}{Music in the 19th Century}
+      \field{title}{Music in the Nineteenth Century: The Oxford History of Western Music}
+      \field{year}{2009}
+    \endentry
+    \entry{Taruskin_2009b}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5a7d2abebb9eb6f9a8f0b28974157caa}{%
+           family={Taruskin},
+           familyi={T\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {Oxford; New York}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{5a7d2abebb9eb6f9a8f0b28974157caa}
+      \strng{fullhash}{5a7d2abebb9eb6f9a8f0b28974157caa}
+      \strng{bibnamehash}{5a7d2abebb9eb6f9a8f0b28974157caa}
+      \strng{authorbibnamehash}{5a7d2abebb9eb6f9a8f0b28974157caa}
+      \strng{authornamehash}{5a7d2abebb9eb6f9a8f0b28974157caa}
+      \strng{authorfullhash}{5a7d2abebb9eb6f9a8f0b28974157caa}
+      \field{extraname}{4}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{edition}{Revised ed. edition}
+      \field{isbn}{978-0-19-538482-6}
+      \field{month}{7}
+      \field{shorttitle}{Music in the 17th and 18th Centuries}
+      \field{title}{Music in the Seventeenth and Eighteenth Centuries: The Oxford History of Western Music}
+      \field{year}{2009}
+    \endentry
+    \entry{Tenney_1971}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=474268d3d4a6663e770100c64610f663}{%
+           family={Tenney},
+           familyi={T\bibinitperiod},
+           given={James\bibnamedelima Carl},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{publisher}{1}{%
+        {Noten Roehr}%
+      }
+      \strng{namehash}{474268d3d4a6663e770100c64610f663}
+      \strng{fullhash}{474268d3d4a6663e770100c64610f663}
+      \strng{bibnamehash}{474268d3d4a6663e770100c64610f663}
+      \strng{authorbibnamehash}{474268d3d4a6663e770100c64610f663}
+      \strng{authornamehash}{474268d3d4a6663e770100c64610f663}
+      \strng{authorfullhash}{474268d3d4a6663e770100c64610f663}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Having Never Written a Note for Percussion}
+      \field{year}{1971}
+      \true{nocite}
+    \endentry
+    \entry{Testa}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=16189d6dfb996bf4896291fae2c61f08}{%
+           family={Testa},
+           familyi={T\bibinitperiod},
+           given={Carl},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \strng{namehash}{16189d6dfb996bf4896291fae2c61f08}
+      \strng{fullhash}{16189d6dfb996bf4896291fae2c61f08}
+      \strng{bibnamehash}{16189d6dfb996bf4896291fae2c61f08}
+      \strng{authorbibnamehash}{16189d6dfb996bf4896291fae2c61f08}
+      \strng{authornamehash}{16189d6dfb996bf4896291fae2c61f08}
+      \strng{authorfullhash}{16189d6dfb996bf4896291fae2c61f08}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Tri-Centric Foundation}
+      \field{month}{11}
+      \field{title}{Composition No. 6E}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://tricentricfoundation.org/composition-no-6e
+      \endverb
+      \verb{url}
+      \verb https://tricentricfoundation.org/composition-no-6e
+      \endverb
+    \endentry
+    \entry{Thomas_2016}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cc5802a3808fa6f006386d4f4a23231b}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={Philip},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en-GB}%
+      }
+      \strng{namehash}{cc5802a3808fa6f006386d4f4a23231b}
+      \strng{fullhash}{cc5802a3808fa6f006386d4f4a23231b}
+      \strng{bibnamehash}{cc5802a3808fa6f006386d4f4a23231b}
+      \strng{authorbibnamehash}{cc5802a3808fa6f006386d4f4a23231b}
+      \strng{authornamehash}{cc5802a3808fa6f006386d4f4a23231b}
+      \strng{authorfullhash}{cc5802a3808fa6f006386d4f4a23231b}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Divergence Press}
+      \field{month}{10}
+      \field{title}{Fingers, Fragility and Freedom – Christian Wolff’s Pianist: Pieces}
+      \field{year}{2016}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://divergencepress.net/2016/10/24/2016-10-27-fingers-fragility-and-freedom-christian-wolffs-pianist-pieces/
+      \endverb
+      \verb{url}
+      \verb http://divergencepress.net/2016/10/24/2016-10-27-fingers-fragility-and-freedom-christian-wolffs-pianist-pieces/
+      \endverb
+    \endentry
+    \entry{Thompson_2006_1}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a2ac610dddf4259fa4d21ec0c453ee7a}{%
+           family={Thompson},
+           familyi={T\bibinitperiod},
+           given={Walter},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, N.Y.}%
+      }
+      \list{publisher}{1}{%
+        {Walter Thompson}%
+      }
+      \strng{namehash}{a2ac610dddf4259fa4d21ec0c453ee7a}
+      \strng{fullhash}{a2ac610dddf4259fa4d21ec0c453ee7a}
+      \strng{bibnamehash}{a2ac610dddf4259fa4d21ec0c453ee7a}
+      \strng{authorbibnamehash}{a2ac610dddf4259fa4d21ec0c453ee7a}
+      \strng{authornamehash}{a2ac610dddf4259fa4d21ec0c453ee7a}
+      \strng{authorfullhash}{a2ac610dddf4259fa4d21ec0c453ee7a}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{Workbook I}
+      \field{title}{Soundpainting: The Art of Live Composition Workbook I}
+      \field{year}{2006}
+      \true{nocite}
+    \endentry
+    \entry{Corri}{online}{}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labeltitlesource}{title}
+      \field{title}{Variations on `Loch Erroch Side', IDC 4 (Corri, Domenico)}
+      \field{urlday}{1}
+      \field{urlmonth}{7}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://imslp.org/wiki/Special:ReverseLookup/514849
+      \endverb
+      \verb{url}
+      \verb https://imslp.org/wiki/Special:ReverseLookup/514849
+      \endverb
+    \endentry
+    \entry{Beethoven_manuscript}{online}{}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labeltitlesource}{title}
+      \field{title}{Violin Sonata No.9, Op.47 (Beethoven, Ludwig van)}
+      \field{urlday}{1}
+      \field{urlmonth}{7}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://imslp.org/wiki/Special:ReverseLookup/107287
+      \endverb
+      \verb{url}
+      \verb https://imslp.org/wiki/Special:ReverseLookup/107287
+      \endverb
+    \endentry
+    \entry{Telemann_1734}{online}{}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labeltitlesource}{title}
+      \field{title}{Violin Sonata, TWV 41:F3 (Telemann, Georg Philipp)}
+      \field{urlday}{1}
+      \field{urlmonth}{7}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://imslp.org/wiki/Special:ReverseLookup/325279
+      \endverb
+      \verb{url}
+      \verb https://imslp.org/wiki/Special:ReverseLookup/325279
+      \endverb
+    \endentry
+    \entry{Walser_1993}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f993b4078405ded9ff260accf32e2a81}{%
+           family={Walser},
+           familyi={W\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{f993b4078405ded9ff260accf32e2a81}
+      \strng{fullhash}{f993b4078405ded9ff260accf32e2a81}
+      \strng{bibnamehash}{f993b4078405ded9ff260accf32e2a81}
+      \strng{authorbibnamehash}{f993b4078405ded9ff260accf32e2a81}
+      \strng{authornamehash}{f993b4078405ded9ff260accf32e2a81}
+      \strng{authorfullhash}{f993b4078405ded9ff260accf32e2a81}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0027-4631}
+      \field{journaltitle}{The Musical Quarterly}
+      \field{number}{2}
+      \field{shorttitle}{Out of Notes}
+      \field{title}{Out of Notes: Signification, Interpretation, and the Problem of Miles Davis}
+      \field{volume}{77}
+      \field{year}{1993}
+      \field{pages}{343\bibrangedash 365}
+      \range{pages}{23}
+    \endentry
+    \entry{Wolff_1968}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=670de8700acf7793e09f9345af84901d}{%
+           family={Wolff},
+           familyi={W\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{publisher}{1}{%
+        {Edition Peters}%
+      }
+      \strng{namehash}{670de8700acf7793e09f9345af84901d}
+      \strng{fullhash}{670de8700acf7793e09f9345af84901d}
+      \strng{bibnamehash}{670de8700acf7793e09f9345af84901d}
+      \strng{authorbibnamehash}{670de8700acf7793e09f9345af84901d}
+      \strng{authornamehash}{670de8700acf7793e09f9345af84901d}
+      \strng{authorfullhash}{670de8700acf7793e09f9345af84901d}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Edges}
+      \field{year}{1968}
+      \true{nocite}
+    \endentry
+    \entry{Wood_2015}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cd6429329f9fc566d98ddf04ec676b26}{%
+           family={Wood},
+           familyi={W\bibinitperiod},
+           given={Sienna\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cd6429329f9fc566d98ddf04ec676b26}
+      \strng{fullhash}{cd6429329f9fc566d98ddf04ec676b26}
+      \strng{bibnamehash}{cd6429329f9fc566d98ddf04ec676b26}
+      \strng{authorbibnamehash}{cd6429329f9fc566d98ddf04ec676b26}
+      \strng{authornamehash}{cd6429329f9fc566d98ddf04ec676b26}
+      \strng{authorfullhash}{cd6429329f9fc566d98ddf04ec676b26}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Music Crash Courses}
+      \field{title}{Introduction to Music Notation}
+      \field{year}{2015}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.musiccrashcourses.com/lessons/notation\%5Fintro.html
+      \endverb
+      \verb{url}
+      \verb https://www.musiccrashcourses.com/lessons/notation%5C%5Fintro.html
+      \endverb
+    \endentry
+    \entry{Wooley}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=52e83470809ef8508e31a695fb348ecb}{%
+           family={Wooley},
+           familyi={W\bibinitperiod},
+           given={Nate},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{52e83470809ef8508e31a695fb348ecb}
+      \strng{fullhash}{52e83470809ef8508e31a695fb348ecb}
+      \strng{bibnamehash}{52e83470809ef8508e31a695fb348ecb}
+      \strng{authorbibnamehash}{52e83470809ef8508e31a695fb348ecb}
+      \strng{authornamehash}{52e83470809ef8508e31a695fb348ecb}
+      \strng{authorfullhash}{52e83470809ef8508e31a695fb348ecb}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sound American}
+      \field{title}{Anthony Braxton’s Language Music}
+      \field{year}{2021}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://archive.soundamerican.org/sa\%5Farchive/sa16/sa16-language-music.html
+      \endverb
+      \verb{url}
+      \verb http://archive.soundamerican.org/sa%5C%5Farchive/sa16/sa16-language-music.html
+      \endverb
+    \endentry
+    \entry{Xenakis_1987}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3da6bfd86f371717cbe3bb77582f1617}{%
+           family={Xenakis},
+           familyi={X\bibinitperiod},
+           given={Iannis},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Perspectives of New Music}%
+      }
+      \strng{namehash}{3da6bfd86f371717cbe3bb77582f1617}
+      \strng{fullhash}{3da6bfd86f371717cbe3bb77582f1617}
+      \strng{bibnamehash}{3da6bfd86f371717cbe3bb77582f1617}
+      \strng{authorbibnamehash}{3da6bfd86f371717cbe3bb77582f1617}
+      \strng{authornamehash}{3da6bfd86f371717cbe3bb77582f1617}
+      \strng{authorfullhash}{3da6bfd86f371717cbe3bb77582f1617}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0031-6016}
+      \field{journaltitle}{Perspectives of New Music}
+      \field{number}{1/2}
+      \field{title}{Mycenae - Alpha 1978}
+      \field{volume}{25}
+      \field{year}{1987}
+      \true{nocite}
+      \field{pages}{12\bibrangedash 15}
+      \range{pages}{4}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
