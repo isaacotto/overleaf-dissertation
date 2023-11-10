@@ -1,0 +1,225 @@
+%----------------------------------------------------------------------------------------
+%	USER-PROVIDED PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\usepackage[final]{pdfpages}
+
+% \usepackage{parskip}
+% \setlength{\parindent}{48pt}
+
+% ALLOWS TITLES TO BE SINGLE-SPACED
+\usepackage{sectsty}
+\allsectionsfont{\singlespacing}
+
+% ALLOWS \overset and \underset COMMANDS as well as \lozenge in Ch. 2
+\usepackage{amsmath}
+
+% ALLOWS FOR FUNKY ARROWS IN CH. 3
+\usepackage{fdsymbol}
+\newcommand{\nwsearrownew}{\mathrel{\text{$\nwarrow$\llap{$\searrow$}}}}
+
+% ALLOWS ``obsessive voice'' ARROW IN CH 3.
+\usepackage{utfsym}
+
+% ALLOWS FOR RADULESCU'S FUNKY ALPHA CHARACTER IN CH. 3
+\newcommand{\newalpha}{
+                        \includegraphics{images/chapter3/newalpha.png}
+                        }
+
+% ALLOWS NICE COLORS
+%\usepackage[dvipsnames]{xcolor}
+
+% ALLOWS UPRIGHT GREEK LETTERS
+\usepackage{upgreek}
+
+% ALLOWS NICE COLORS
+% \usepackage[dvipsnames]{xcolor}
+% \usepackage{utfsym}
+% \newcommand{\Radulescu}{Rădulescu }
+
+% MORE ADVANCED TABLE PACKAGE
+\usepackage{tabularray}
+
+% ALLOWS MULTIPLE IMAGES SIDE BY SIDE IN ONE FIGURE
+%\usepackage{subfig}
+\usepackage{subcaption}
+
+% ALLOWS NICE TEXT FRAMING
+ \usepackage[framemethod=TikZ]{mdframed}
+
+% DEFINES \RAGGEDLEFT \RAGGEDRIGHT ETC.
+\usepackage{ragged2e}
+
+% % ALLOWS GOOD CITATION PRACTICES
+% \usepackage[useibid]{biblatex-chicago}
+% \addbibresource{mybib.bib}
+% \usepackage{csquotes}
+
+% DON'T INCLUDE LANGUAGE INFORMATION IN CITATIONS
+\DeclareListFormat{language}{}
+\AtEveryBibitem{\clearlist{language}}
+
+% BETTER SPACED QUOTE ENVIRONMENT
+\usepackage[vskip=5pt]{quoting}
+
+% FIXES CAPTIONS AND ALLOWS FOR CAPTION OPTIONS
+\usepackage[margin=10pt,font=small,labelfont=bf]{caption}
+
+\usepackage[english]{babel}
+
+% ALLOWS URL BREAKS AT ANY ALPHANUMERIC CHAR
+\usepackage{xurl}
+
+% "Subliminal refinements towards typographical perfection"
+\usepackage{microtype}
+
+% IMPROVES FLOATING BEHAVIOR OF FIGURES ETC.
+\usepackage{float}
+\floatplacement{figure}{H}
+\floatplacement{table}{H}
+% \usepackage{float}
+% \floatplacement{figure}{h}
+% \floatplacement{table}{h}
+
+% ALLOWS CHANGES OF LINE SPACING
+\usepackage{setspace}
+
+% ALLOWS OPTIONAL ARGS FOR \includegraphics
+% type1cm, lettrine allow drop caps
+\usepackage{graphicx, type1cm, lettrine}
+\graphicspath{ {./images/chapter4/} }
+
+% ALLOWS USE OF EPIGRAPHS
+\usepackage{epigraph}
+\setlength\epigraphwidth{.55\textwidth}
+
+% ALLOWS FOR WRAPPING TEXT AROUND FIGURES
+\usepackage{wrapfig}
+
+% ALLOWS USE OF FRAMES AROUND TEXT/FIGURES which can break across pages
+\usepackage{framed}
+
+\usepackage{endnotes}
+%\usepackage[hyphens]{url}
+%\usepackage[T1]{fontenc}
+
+% ALLOWS USE OF LILYPOND EXCERPTS
+\usepackage{lilyglyphs}
+\usepackage{fontspec} % ALLOWS ADVANCED FONT SELECTION; ALSO REQUIRED FOR LILYGLYPHS TO WORK FOR SOME REASON
+
+    % SET MAIN FONT(S) HERE OR COMMENT OUT FOR DEFAULTS
+    % THESE ARE JUST SOME FONTS I KIND OF LIKE
+    % \setmainfont{IBM Plex Sans}
+    % \setmainfont{Cormorant Garamond}
+    % \setmainfont{Gentium}
+
+% "Control layout of itemize, enumerate, description"
+% This is set in the .cls file
+%\usepackage[shortlabels]{enumitem}
+
+\setlist{  
+  listparindent=\parindent,
+  parsep=0pt,
+}
+
+% This makes nicer looking inset quotes, I think. Not necessary
+\newenvironment{smallquote}
+    {    \begin{quoting}[indentfirst=false]
+    \begin{singlespace}
+    \small
+    }
+   { 
+   \end{singlespace}
+   \end{quoting}
+   \normalsize
+    }
+
+% PROVIDES ENVIRONMENT FOR \begin{notestuff} and \begin{uselater}
+            
+\newenvironment{notestuff}{
+    \begin{mdframed}[
+                    backgroundcolor=red!10,
+                    roundcorner=5pt,
+                    middlelinecolor=red,
+                    middlelinewidth=2pt,
+                    leftmargin=2cm,
+                    rightmargin=2cm
+                    ]
+    \vspace{-5pt}
+    \small
+    \begin{singlespace}
+    }
+    {
+    \end{singlespace}
+    \end{mdframed}
+    }
+
+\newenvironment{uselater}{
+    \begin{mdframed}[
+                    backgroundcolor=blue!10,
+                    roundcorner=5pt,
+                    middlelinecolor=blue,
+                    middlelinewidth=2pt,
+                    leftmargin=1.5cm,
+                    rightmargin=1.5cm
+                    ]
+    \vspace{-5pt}
+    \small
+    \begin{singlespace}
+    }
+    {
+    \end{singlespace}
+    \end{mdframed}
+    }
+    
+%COMPLICATED PACKAGE FOR BUILDING YOUR OWN GRAPHICS
+%UNCOMMENT FOR FINAL
+\usepackage{tikz}
+    \usetikzlibrary{arrows,positioning,patterns,shapes}
+
+    % ALLOWS FOR CONTOURS AROUND TEXT
+    \usepackage[pdftex, outline]{contour}
+    \contourlength{1.2pt}
+    
+% ALLOWS DOTTED OR DASHED VERTICAL LINE
+%% EXAMPLE : Text\myline Text\myline[dashed]Text\myline[dotted]
+\newcommand\myline[1][]{%
+  \,\tikz[baseline]\draw[very thick,#1](0,-\dp\strutbox)--(0,\ht\strutbox);\,%
+}
+
+% HIERARCHY DIAGRAM
+\usepackage[edges]{forest}
+
+% "Generic symbols for both text and math mode"
+% \usepackage{gensymb}
+
+% ALLOWS ARITHMETIC IN LATEX ARGS
+\usepackage{calc}
+
+% I DON'T REMEMBER WHAT THIS DOES
+\newlength\myheight
+\newlength\mydepth
+\settototalheight\myheight{Xygp}
+\settodepth\mydepth{Xygp}
+\setlength\fboxsep{0pt}
+
+% DEFINES ALL GREEK CAPITALS
+\usepackage{unicode-math}
+\setmathfont{XITS Math}
+\setmathfont[version=setB,StylisticSet=1]{XITS Math}
+
+% PREVENTS UGLY SPLITTING OF FOOTNOTES
+\interfootnotelinepenalty=10000
+
+% ALLOWS USE OF LILYPOND EXAMPLES DIRECTLY
+\usepackage{lyluatex}
+
+% ALLOWS FOR TREE DIAGRAMS
+\usepackage{qtree}
+
+% LITERALLY JUST TO PRINT A CURLY X
+\usepackage{mathrsfs}
+
+% FOR SOME REASON ONLY INCLUDING THIS PACKAGE {tocloft} ALLOWS THE LISTS OF FIGURES AND TABLES TO SHOW UP---IT SEEMS BROKEN OTHERWISE. I MIGHT AS WELL MAKE SURE I DON'T WANT SOME SPECIAL FORMATTING WHILE I'M AT IT...??
+\usepackage{tocloft}
+
