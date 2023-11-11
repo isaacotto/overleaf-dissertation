@@ -1,0 +1,14 @@
+# Ignore extra files which result from compilation.
+*.aux
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.toc
+
+# Ignore the final .pdf.
+*.pdf
