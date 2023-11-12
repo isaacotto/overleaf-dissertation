@@ -1910,6 +1910,36 @@
       \verb 10.1080/07494460701250890
       \endverb
     \endentry
+    \entry{Kite-Powell_2012}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=09fa7fe3494ef5225d0fdee3aec5ff21}{%
+           family={Kite-Powell},
+           familyi={K\bibinithyphendelim P\bibinitperiod},
+           given={Jeffery},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Indiana University Press}%
+      }
+      \strng{namehash}{09fa7fe3494ef5225d0fdee3aec5ff21}
+      \strng{fullhash}{09fa7fe3494ef5225d0fdee3aec5ff21}
+      \strng{bibnamehash}{09fa7fe3494ef5225d0fdee3aec5ff21}
+      \strng{authorbibnamehash}{09fa7fe3494ef5225d0fdee3aec5ff21}
+      \strng{authornamehash}{09fa7fe3494ef5225d0fdee3aec5ff21}
+      \strng{authorfullhash}{09fa7fe3494ef5225d0fdee3aec5ff21}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-253-00528-1}
+      \field{month}{3}
+      \field{title}{A Performer’s Guide to Seventeenth-Century Music, Second Edition}
+      \field{year}{2012}
+    \endentry
     \entry{Arezzo_1943}{thesis}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=5344d1c108ac05ad3ee2df685fb217b4}{%
