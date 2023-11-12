@@ -9,6 +9,7 @@
 *.lot
 *.out
 *.toc
+*.gz
 
 # Ignore the final .pdf.
 *.pdf
