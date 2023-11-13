@@ -19,103 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{cms/global//global/global}
-    \entry{Guido_1904}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=8a774c3b1cbe3a87fb2bd4fc88cc35ec}{%
-           family={(d'Arezzo.)},
-           familyi={(\bibinitperiod},
-           given={Guido},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{language}{1}{%
-        {Latin}%
-      }
-      \list{publisher}{1}{%
-        {Desclée}%
-      }
-      \strng{namehash}{8a774c3b1cbe3a87fb2bd4fc88cc35ec}
-      \strng{fullhash}{8a774c3b1cbe3a87fb2bd4fc88cc35ec}
-      \strng{bibnamehash}{8a774c3b1cbe3a87fb2bd4fc88cc35ec}
-      \strng{authorbibnamehash}{8a774c3b1cbe3a87fb2bd4fc88cc35ec}
-      \strng{authornamehash}{8a774c3b1cbe3a87fb2bd4fc88cc35ec}
-      \strng{authorfullhash}{8a774c3b1cbe3a87fb2bd4fc88cc35ec}
-      \field{sortinit}{d}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{note}{Google-Books-ID: Fj3fSAAACAAJ}
-      \field{shorttitle}{Micrologus (1904)}
-      \field{title}{Guidonis Monachi Aretini Micrologus [de disciplina artis musicae] ad praestantiores codices mss. exactus}
-      \field{year}{1904}
-    \endentry
-    \entry{Guido_1000}{unpublished}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=56c58ed252b146f60f582b39ffd4a189}{%
-           family={(d’Arezzo)},
-           familyi={(\bibinitperiod},
-           given={Guido},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{language}{1}{%
-        {Latin}%
-      }
-      \list{location}{1}{%
-        {Netherlands}%
-      }
-      \strng{namehash}{56c58ed252b146f60f582b39ffd4a189}
-      \strng{fullhash}{56c58ed252b146f60f582b39ffd4a189}
-      \strng{bibnamehash}{56c58ed252b146f60f582b39ffd4a189}
-      \strng{authorbibnamehash}{56c58ed252b146f60f582b39ffd4a189}
-      \strng{authornamehash}{56c58ed252b146f60f582b39ffd4a189}
-      \strng{authorfullhash}{56c58ed252b146f60f582b39ffd4a189}
-      \field{sortinit}{d}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{shorttitle}{Micrologus (ca. 1000)}
-      \field{title}{Guidonis Aretini Micrologus. - Guidonis Aretini Dialogus in musicam. - de Similitudine virilis chori femineique ad autentos plagas}
-      \field{type}{scans}
-      \true{nocite}
-      \verb{urlraw}
-      \verb http://hdl.handle.net/1887.1/item:1805705
-      \endverb
-      \verb{url}
-      \verb http://hdl.handle.net/1887.1/item:1805705
-      \endverb
-    \endentry
-    \entry{Music_101}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=fb9aa132fac44ef60659ab0c7faa0b9d}{%
-           family={``Masterclass''},
-           familyi={``\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \strng{namehash}{fb9aa132fac44ef60659ab0c7faa0b9d}
-      \strng{fullhash}{fb9aa132fac44ef60659ab0c7faa0b9d}
-      \strng{bibnamehash}{fb9aa132fac44ef60659ab0c7faa0b9d}
-      \strng{authorbibnamehash}{fb9aa132fac44ef60659ab0c7faa0b9d}
-      \strng{authornamehash}{fb9aa132fac44ef60659ab0c7faa0b9d}
-      \strng{authorfullhash}{fb9aa132fac44ef60659ab0c7faa0b9d}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{MasterClass}
-      \field{month}{6}
-      \field{title}{Music 101: What Is Musical Notation? Learn About The Different Types of Musical Notes and Time Signatures}
-      \field{year}{2021}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://www.masterclass.com/articles/music-101-what-is-musical-notation-learn-about-the-different-types-of-musical-notes-and-time-signatures
-      \endverb
-      \verb{url}
-      \verb https://www.masterclass.com/articles/music-101-what-is-musical-notation-learn-about-the-different-types-of-musical-notes-and-time-signatures
-      \endverb
-    \endentry
     \entry{Abel_2016}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=e5ec3ad33b721d45b0466c5173839031}{%
@@ -180,7 +83,6 @@
       \field{title}{bach: Computer-aided composition in Max}
       \field{year}{2023}
       \field{dateera}{ce}
-      \true{nocite}
       \verb{urlraw}
       \verb https://forum.ircam.fr/projects/detail/bach-computer-aided-composition-in-max/
       \endverb
@@ -218,7 +120,6 @@
       \field{labeltitlesource}{title}
       \field{title}{Workers Union}
       \field{year}{1975}
-      \true{nocite}
     \endentry
     \entry{Benadon_2009}{article}{}
       \name{author}{1}{}{%
@@ -248,7 +149,6 @@
       \field{title}{Gridless Beats}
       \field{volume}{47}
       \field{year}{2009}
-      \true{nocite}
       \field{pages}{135\bibrangedash 164}
       \range{pages}{30}
       \verb{doi}
@@ -335,7 +235,6 @@
       \field{journaltitle}{Grove Music Online}
       \field{title}{Notation}
       \field{year}{2014}
-      \true{nocite}
       \verb{urlraw}
       \verb https://www.oxfordmusiconline.com/grovemusic/display/10.1093/gmo/9781561592630.001.0001/omo-9781561592630-e-0000020114
       \endverb
@@ -370,7 +269,6 @@
       \field{labeltitlesource}{title}
       \field{title}{Stripsody}
       \field{year}{1966}
-      \true{nocite}
     \endentry
     \entry{Berio_1958}{book}{}
       \name{author}{1}{}{%
@@ -463,7 +361,6 @@
       \field{year}{2015}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{urlraw}
       \verb https://www.bonhams.com/auction/22407/lot/144/monk-thelonious-sphere-1917-1982-autograph-musical-manuscript-signed-thelonious-m-monks-mood-1-page-new-york-c1956-7-6-34-x-7-12-inches/
       \endverb
@@ -530,7 +427,6 @@
       \field{month}{11}
       \field{title}{Music Lessons: The Collège de France Lectures}
       \field{year}{2019}
-      \true{nocite}
     \endentry
     \entry{Braxton_1977}{book}{}
       \name{author}{1}{}{%
@@ -561,7 +457,6 @@
       \field{labeltitlesource}{title}
       \field{title}{Composition No. 76}
       \field{year}{1977}
-      \true{nocite}
     \endentry
     \entry{Braxton_Comp_76}{book}{}
       \name{author}{1}{}{%
@@ -592,7 +487,6 @@
       \field{labeltitlesource}{title}
       \field{title}{Composition No. 76}
       \field{year}{2014}
-      \true{nocite}
     \endentry
     \entry{Braxton_1988A}{book}{}
       \name{author}{1}{}{%
@@ -626,7 +520,6 @@
       \field{shorttitle}{Comp. Notes A}
       \field{title}{Composition Notes Book A}
       \field{year}{1988}
-      \true{nocite}
     \endentry
     \entry{Braxton_1988}{book}{}
       \name{author}{1}{}{%
@@ -660,7 +553,6 @@
       \field{shorttitle}{Comp. Notes D}
       \field{title}{Composition Notes Book D}
       \field{year}{1988}
-      \true{nocite}
     \endentry
     \entry{Braxton_For_Trio}{book}{}
       \name{author}{1}{}{%
@@ -690,7 +582,6 @@
       \field{labeltitlesource}{title}
       \field{title}{For Trio}
       \field{year}{1978}
-      \true{nocite}
     \endentry
     \entry{Braxton_1985}{book}{}
       \name{author}{1}{}{%
@@ -721,7 +612,6 @@
       \field{title}{Tri-Axium Writings}
       \field{volume}{3}
       \field{year}{1985}
-      \true{nocite}
     \endentry
     \entry{Brown_1986}{book}{}
       \name{author}{1}{}{%
@@ -846,7 +736,6 @@
       \field{shorttitle}{Five Piano Pieces for David Tudor}
       \field{title}{Five Piano Pieces for David Tudor: 1959: Extraits de Pièces de Chair II (reproduction de manuscript de l'auteur)}
       \field{year}{1959}
-      \true{nocite}
     \endentry
     \entry{Cage_1958}{book}{}
       \name{author}{1}{}{%
@@ -877,7 +766,6 @@
       \field{isbn}{978-0-300-73327-3}
       \field{title}{Aria}
       \field{year}{1958}
-      \true{nocite}
     \endentry
     \entry{Cage_1960}{book}{}
       \name{author}{1}{}{%
@@ -907,7 +795,6 @@
       \field{labeltitlesource}{title}
       \field{title}{Concert for Piano and Orchestra: Solo for Piano}
       \field{year}{1960}
-      \true{nocite}
     \endentry
     \entry{Canguilhem_2017}{inbook}{}
       \name{author}{1}{}{%
@@ -984,7 +871,6 @@
       \field{labeltitlesource}{title}
       \field{title}{Treatise}
       \field{year}{1967}
-      \true{nocite}
     \endentry
     \entry{Carl_2010}{misc}{}
       \name{author}{1}{}{%
@@ -1009,7 +895,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{1}
-      \field{title}{Terry Riley’s In C - New Music USA}
+      \field{title}{Terry Riley's In C - New Music USA}
       \field{year}{2010}
       \verb{urlraw}
       \verb https://newmusicusa.org/nmbx/terry-rileys-in-c/
@@ -1051,7 +937,6 @@
       \field{title}{A ritual of openness. The (meta-)reality of Anthony Braxton's Ghost Trance Music}
       \field{volume}{28}
       \field{year}{2021}
-      \true{nocite}
       \field{pages}{48\bibrangedash 57}
       \range{pages}{10}
       \verb{doi}
@@ -1083,7 +968,7 @@
       \field{issn}{1893-9562}
       \field{journaltitle}{Music \& Practice}
       \field{shorttitle}{Transcribing Couperin's Preludes}
-      \field{title}{Transcribing Couperin’s Preludes à la D’Anglebert: a Journey into the Creative Processes of the 17th-century Quasi-improvisatory Tradition}
+      \field{title}{Transcribing Couperin's Preludes à la D'Anglebert: a Journey into the Creative Processes of the 17th-century Quasi-improvisatory Tradition}
       \field{volume}{5}
       \field{year}{2019}
       \verb{urlraw}
@@ -1125,7 +1010,6 @@
       \field{isbn}{0-697-03607-3}
       \field{title}{New Directions in Music}
       \field{year}{1984}
-      \true{nocite}
     \endentry
     \entry{MAX}{misc}{}
       \name{author}{1}{}{%
@@ -1147,13 +1031,80 @@
       \field{version}{8.5.4}
       \field{year}{2023}
       \field{dateera}{ce}
-      \true{nocite}
       \verb{urlraw}
       \verb https://cycling74.com/products/max
       \endverb
       \verb{url}
       \verb https://cycling74.com/products/max
       \endverb
+    \endentry
+    \entry{Guido_1000}{unpublished}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f429c85e4f7d5c659b7a1023398381d7}{%
+           family={d'Arezzo},
+           familyi={d\bibinitperiod},
+           given={Guido},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {Latin}%
+      }
+      \list{location}{1}{%
+        {Netherlands}%
+      }
+      \strng{namehash}{f429c85e4f7d5c659b7a1023398381d7}
+      \strng{fullhash}{f429c85e4f7d5c659b7a1023398381d7}
+      \strng{bibnamehash}{f429c85e4f7d5c659b7a1023398381d7}
+      \strng{authorbibnamehash}{f429c85e4f7d5c659b7a1023398381d7}
+      \strng{authornamehash}{f429c85e4f7d5c659b7a1023398381d7}
+      \strng{authorfullhash}{f429c85e4f7d5c659b7a1023398381d7}
+      \field{extraname}{1}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{Micrologus (ca. 1000)}
+      \field{title}{Guidonis Aretini Micrologus. - Guidonis Aretini Dialogus in musicam. - de Similitudine virilis chori femineique ad autentos plagas}
+      \field{type}{scans}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://hdl.handle.net/1887.1/item:1805705
+      \endverb
+      \verb{url}
+      \verb http://hdl.handle.net/1887.1/item:1805705
+      \endverb
+    \endentry
+    \entry{Guido_1904}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f429c85e4f7d5c659b7a1023398381d7}{%
+           family={d'Arezzo},
+           familyi={d\bibinitperiod},
+           given={Guido},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {Latin}%
+      }
+      \list{publisher}{1}{%
+        {Desclée}%
+      }
+      \strng{namehash}{f429c85e4f7d5c659b7a1023398381d7}
+      \strng{fullhash}{f429c85e4f7d5c659b7a1023398381d7}
+      \strng{bibnamehash}{f429c85e4f7d5c659b7a1023398381d7}
+      \strng{authorbibnamehash}{f429c85e4f7d5c659b7a1023398381d7}
+      \strng{authornamehash}{f429c85e4f7d5c659b7a1023398381d7}
+      \strng{authorfullhash}{f429c85e4f7d5c659b7a1023398381d7}
+      \field{extraname}{2}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{note}{Google-Books-ID: Fj3fSAAACAAJ}
+      \field{shorttitle}{Micrologus (1904)}
+      \field{title}{Guidonis Monachi Aretini Micrologus [de disciplina artis musicae] ad praestantiores codices mss. exactus}
+      \field{year}{1904}
     \endentry
     \entry{Dicker_2016}{article}{}
       \name{author}{1}{}{%
@@ -1178,7 +1129,6 @@
       \field{number}{16: The Anthony Braxton Issue}
       \field{title}{SA16: Ghost Trance Music}
       \field{year}{2016}
-      \true{nocite}
       \verb{urlraw}
       \verb http://archive.soundamerican.org/sa\%5Farchive/sa16/sa16-ghost-trance-music.html
       \endverb
@@ -1247,7 +1197,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Modernism/modernity Print Plus}
       \field{month}{9}
-      \field{title}{Spontaneity, Intimacy, and Friendship in Morton Feldman’s Music of the 1950s}
+      \field{title}{Spontaneity, Intimacy, and Friendship in Morton Feldman's Music of the 1950s}
       \field{year}{2017}
       \verb{urlraw}
       \verb https://modernismmodernity.org/articles/morton-feldman
@@ -1282,10 +1232,9 @@
       \field{journaltitle}{Tempo}
       \field{number}{268}
       \field{shorttitle}{On Horatiu Radulescu's 5th String Quartet}
-      \field{title}{On Horatiu Radulescu’s Fifth String Quartet (`Before the Universe was Born’) Op. 89}
+      \field{title}{On Horatiu Radulescu's Fifth String Quartet (`Before the Universe was Born') Op. 89}
       \field{volume}{68}
       \field{year}{2014}
-      \true{nocite}
       \field{pages}{34\bibrangedash 45}
       \range{pages}{12}
     \endentry
@@ -1339,10 +1288,9 @@
       \field{issn}{0031-6016}
       \field{journaltitle}{Perspectives of New Music}
       \field{number}{1}
-      \field{title}{Re-Complexifying the Function(s) of Notation in the Music of Brian Ferneyhough and the “New Complexity”}
+      \field{title}{Re-Complexifying the Function(s) of Notation in the Music of Brian Ferneyhough and the ``New Complexity''}
       \field{volume}{48}
       \field{year}{2010}
-      \true{nocite}
       \field{pages}{136\bibrangedash 172}
       \range{pages}{37}
     \endentry
@@ -1394,7 +1342,6 @@
       \field{month}{4}
       \field{title}{The Open Work}
       \field{year}{1989}
-      \true{nocite}
     \endentry
     \entry{Ligeti_1965}{book}{}
       \name{author}{9}{}{%
@@ -1457,7 +1404,7 @@
         {ja}%
       }
       \list{publisher}{1}{%
-        {B. Schott’s Söhne}%
+        {B. Schott's Söhne}%
       }
       \strng{namehash}{8e16f963c768fd237ee19ef6f8f45eb5}
       \strng{fullhash}{24649d317cb8b8f2f6c54bf2e8ccab8e}
@@ -1471,7 +1418,6 @@
       \field{labeltitlesource}{title}
       \field{title}{Notation neuer Musik}
       \field{year}{1965}
-      \true{nocite}
       \verb{urlraw}
       \verb https://ci.nii.ac.jp/ncid/BA86950051
       \endverb
@@ -1510,7 +1456,6 @@
       \field{labeltitlesource}{title}
       \field{title}{King of Denmark}
       \field{year}{1965}
-      \true{nocite}
     \endentry
     \entry{Feldman_2002}{book}{}
       \name{author}{1}{}{%
@@ -1571,7 +1516,6 @@
       \field{isbn}{978-3-7186-5576-2}
       \field{title}{Collected Writings}
       \field{year}{1995}
-      \true{nocite}
     \endentry
     \entry{Ferneyhough_1976}{book}{}
       \name{author}{1}{}{%
@@ -1598,7 +1542,6 @@
       \field{labeltitlesource}{title}
       \field{title}{Unity Capsule}
       \field{year}{1976}
-      \true{nocite}
     \endentry
     \entry{Griffiths_2011}{book}{}
       \name{author}{1}{}{%
@@ -1658,14 +1601,44 @@
       \field{labeltitlesource}{shorttitle}
       \field{journaltitle}{Perspectives of New Music, Volume 50, Winter/Summer 2012}
       \field{shorttitle}{Drastic or Plastic?}
-      \field{title}{Drastic or Plastic?: Threads from Karlheinz Stockhausen “Musik und Graphik,” 1959}
-      \true{nocite}
+      \field{title}{Drastic or Plastic?: Threads from Karlheinz Stockhausen ``Musik und Graphik,'' 1959}
       \verb{urlraw}
       \verb https://www.academia.edu/1934849/Drastic\%5For\%5FPlastic\%5FThreads\%5Ffrom\%5FKarlheinz\%5FStockhausens\%5FMusik\%5Fund\%5FGraphik\%5F1959
       \endverb
       \verb{url}
       \verb https://www.academia.edu/1934849/Drastic%5C%5For%5C%5FPlastic%5C%5FThreads%5C%5Ffrom%5C%5FKarlheinz%5C%5FStockhausens%5C%5FMusik%5C%5Fund%5C%5FGraphik%5C%5F1959
       \endverb
+    \endentry
+    \entry{Hammel_1977}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c62996cbb999f1ad83511fe16b25907a}{%
+           family={Hammel},
+           familyi={H\bibinitperiod},
+           given={Marla},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Riemenschneider Bach Institute}%
+      }
+      \strng{namehash}{c62996cbb999f1ad83511fe16b25907a}
+      \strng{fullhash}{c62996cbb999f1ad83511fe16b25907a}
+      \strng{bibnamehash}{c62996cbb999f1ad83511fe16b25907a}
+      \strng{authorbibnamehash}{c62996cbb999f1ad83511fe16b25907a}
+      \strng{authornamehash}{c62996cbb999f1ad83511fe16b25907a}
+      \strng{authorfullhash}{c62996cbb999f1ad83511fe16b25907a}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0005-3600}
+      \field{journaltitle}{Bach}
+      \field{number}{3}
+      \field{title}{The Figured-bass Accompaniment in Bach's Time: A Brief Summary of Its Development and An Examination of Its Use, Together With a Sample Realization, Part I}
+      \field{volume}{8}
+      \field{year}{1977}
+      \field{pages}{26\bibrangedash 31}
+      \range{pages}{6}
     \endentry
     \entry{Heaton_1983}{article}{}
       \name{author}{1}{}{%
@@ -1688,10 +1661,9 @@
       \field{labeltitlesource}{title}
       \field{issn}{0308-5066}
       \field{journaltitle}{Contact}
-      \field{title}{Horatiu Radulescu, “Sound Plasma”}
+      \field{title}{Horatiu Radulescu, ``Sound Plasma''}
       \field{volume}{26}
       \field{year}{1983}
-      \true{nocite}
     \endentry
     \entry{Heery_2016}{article}{}
       \name{author}{1}{}{%
@@ -1715,10 +1687,9 @@
       \field{issn}{978-2-84066-777-3}
       \field{journaltitle}{Tacet}
       \field{shorttitle}{Sound Plasma}
-      \field{title}{Sound Plasma: Horatiu Rădulescu’s Oto-utopia}
+      \field{title}{Sound Plasma: Horatiu Rădulescu's Oto-utopia}
       \field{volume}{4}
       \field{year}{2016}
-      \true{nocite}
     \endentry
     \entry{Hucke_1980}{article}{}
       \name{author}{1}{}{%
@@ -1795,7 +1766,6 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{IMSLP}
       \field{title}{Codex Chantilly (Various)}
-      \true{nocite}
       \verb{urlraw}
       \verb https://imslp.org/wiki/Codex\%5FChantilly\%5F(Various)
       \endverb
@@ -1835,7 +1805,6 @@
       \field{title}{The textures of Central Javanese gamelan music: Pre-notation and its discontents}
       \field{volume}{164}
       \field{year}{2008}
-      \true{nocite}
       \field{pages}{475\bibrangedash 499}
       \range{pages}{25}
       \verb{doi}
@@ -1873,7 +1842,6 @@
       \field{isbn}{978-0-306-80556-1}
       \field{title}{Free Jazz}
       \field{year}{1994}
-      \true{nocite}
     \endentry
     \entry{Kanno_2007}{article}{}
       \name{author}{1}{}{%
@@ -1935,9 +1903,8 @@
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{978-0-253-00528-1}
       \field{month}{3}
-      \field{title}{A Performer’s Guide to Seventeenth-Century Music, Second Edition}
+      \field{title}{A Performer's Guide to Seventeenth-Century Music, Second Edition}
       \field{year}{2012}
     \endentry
     \entry{Arezzo_1943}{thesis}{}
@@ -2007,7 +1974,6 @@
       \field{labeltitlesource}{title}
       \field{title}{Pression}
       \field{year}{1969}
-      \true{nocite}
     \endentry
     \entry{Lewis_1977}{book}{}
       \name{author}{1}{}{%
@@ -2036,7 +2002,6 @@
       \field{labeltitlesource}{title}
       \field{title}{Shadowgraph, 5}
       \field{year}{1977}
-      \true{nocite}
     \endentry
     \entry{Lewis_2007}{article}{}
       \name{author}{1}{}{%
@@ -2122,7 +2087,6 @@
       \field{labeltitlesource}{shorttitle}
       \field{shorttitle}{The Illusion Machine (forthcoming)}
       \field{title}{The Illusion Machine: Selected Writings of György Ligeti (forthcoming)}
-      \true{nocite}
     \endentry
     \entry{Lock_2008}{article}{}
       \name{author}{1}{}{%
@@ -2147,10 +2111,9 @@
       \field{journaltitle}{Critical Studies in Improvisation / Études critiques en improvisation}
       \field{month}{5}
       \field{shorttitle}{`What I Call a Sound'}
-      \field{title}{`What I Call a Sound': Anthony Braxton’s Synaesthetic Ideal and Notations for Improvisers}
+      \field{title}{`What I Call a Sound': Anthony Braxton's Synaesthetic Ideal and Notations for Improvisers}
       \field{volume}{4}
       \field{year}{2008}
-      \true{nocite}
       \verb{doi}
       \verb 10.21083/csieci.v4i1.462
       \endverb
@@ -2189,7 +2152,6 @@
       \field{shorttitle}{Blutopia}
       \field{title}{Blutopia: Visions of the Future and Revisions of the Past in the Work of Sun Ra, Duke Ellington, and Anthony Braxton}
       \field{year}{2000}
-      \true{nocite}
     \endentry
     \entry{Lock_1989}{book}{}
       \name{author}{1}{}{%
@@ -2226,7 +2188,6 @@
       \field{shorttitle}{Forces in Motion}
       \field{title}{Forces in Motion: The Music And Thoughts Of Anthony Braxton}
       \field{year}{1989}
-      \true{nocite}
     \endentry
     \entry{Lusitano_1561}{book}{}
       \name{author}{1}{}{%
@@ -2334,12 +2295,41 @@
       \field{month}{5}
       \field{title}{Notations – seeing sound}
       \field{year}{2015}
-      \true{nocite}
       \verb{urlraw}
       \verb https://debbielyddon.wordpress.com/2015/05/18/notations-seeing-sound/
       \endverb
       \verb{url}
       \verb https://debbielyddon.wordpress.com/2015/05/18/notations-seeing-sound/
+      \endverb
+    \endentry
+    \entry{Music_101}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4f402d7df6e2120d95ab6c9156592006}{%
+           family={{M}asterclass},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{4f402d7df6e2120d95ab6c9156592006}
+      \strng{fullhash}{4f402d7df6e2120d95ab6c9156592006}
+      \strng{bibnamehash}{4f402d7df6e2120d95ab6c9156592006}
+      \strng{authorbibnamehash}{4f402d7df6e2120d95ab6c9156592006}
+      \strng{authornamehash}{4f402d7df6e2120d95ab6c9156592006}
+      \strng{authorfullhash}{4f402d7df6e2120d95ab6c9156592006}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{MasterClass}
+      \field{month}{6}
+      \field{title}{Music 101: What Is Musical Notation? Learn About The Different Types of Musical Notes and Time Signatures}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.masterclass.com/articles/music-101-what-is-musical-notation-learn-about-the-different-types-of-musical-notes-and-time-signatures
+      \endverb
+      \verb{url}
+      \verb https://www.masterclass.com/articles/music-101-what-is-musical-notation-learn-about-the-different-types-of-musical-notes-and-time-signatures
       \endverb
     \endentry
     \entry{Mitchell_1978}{misc}{}
@@ -2367,7 +2357,6 @@
       \field{howpublished}{Vinyl}
       \field{title}{L-R-G / The Maze / S II Examples}
       \field{year}{1978}
-      \true{nocite}
     \endentry
     \entry{Moore_1992}{article}{}
       \name{author}{1}{}{%
@@ -2432,7 +2421,53 @@
       \field{shorttitle}{The Art of Conduction}
       \field{title}{The Art of Conduction -- a Conduction$^{®}$ Workbook}
       \field{year}{2017}
-      \true{nocite}
+    \endentry
+    \entry{Pace_2009}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5c74972268ad30f9a386510a7a3a4c09}{%
+           family={Pace},
+           familyi={P\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=f1cb42534044eddf68f46bfeef8bdcf5}{%
+           family={Crispin},
+           familyi={C\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Leuven University Press}%
+      }
+      \strng{namehash}{5c74972268ad30f9a386510a7a3a4c09}
+      \strng{fullhash}{5c74972268ad30f9a386510a7a3a4c09}
+      \strng{bibnamehash}{5c74972268ad30f9a386510a7a3a4c09}
+      \strng{authorbibnamehash}{5c74972268ad30f9a386510a7a3a4c09}
+      \strng{authornamehash}{5c74972268ad30f9a386510a7a3a4c09}
+      \strng{authorfullhash}{5c74972268ad30f9a386510a7a3a4c09}
+      \strng{editorbibnamehash}{f1cb42534044eddf68f46bfeef8bdcf5}
+      \strng{editornamehash}{f1cb42534044eddf68f46bfeef8bdcf5}
+      \strng{editorfullhash}{f1cb42534044eddf68f46bfeef8bdcf5}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-90-5867-735-8}
+      \field{title}{Notation, Time and the Performer's Relationship to the Score in Contemporary Music}
+      \field{year}{2009}
+      \field{pages}{151\bibrangedash 192}
+      \range{pages}{42}
+      \verb{urlraw}
+      \verb http://upers.kuleuven.be/en/book/9789058677358
+      \endverb
+      \verb{url}
+      \verb http://upers.kuleuven.be/en/book/9789058677358
+      \endverb
     \endentry
     \entry{Radulescu_1993}{book}{}
       \name{author}{1}{}{%
@@ -2460,7 +2495,6 @@
       \field{shorttitle}{Op. 89}
       \field{title}{Before the Universe was Born, Op. 89}
       \field{year}{1993}
-      \true{nocite}
     \endentry
     \entry{Radulescu_1984}{book}{}
       \name{author}{1}{}{%
@@ -2487,7 +2521,6 @@
       \field{labeltitlesource}{title}
       \field{title}{Das Andere}
       \field{year}{1984}
-      \true{nocite}
     \endentry
     \entry{Radulescu_1975}{book}{}
       \name{author}{1}{}{%
@@ -2517,7 +2550,6 @@
       \field{labeltitlesource}{title}
       \field{title}{Sound Plasma: Music of the Future Sign}
       \field{year}{1975}
-      \true{nocite}
     \endentry
     \entry{Reisenweaver_2012}{article}{}
       \name{author}{1}{}{%
@@ -2592,7 +2624,6 @@
       \field{howpublished}{CD}
       \field{title}{Slipknots Through a Looking Glass, Part 2}
       \field{year}{2020}
-      \true{nocite}
     \endentry
     \entry{Rosen_1970}{article}{}
       \name{author}{1}{}{%
@@ -2727,7 +2758,6 @@
       \field{urlyear}{2023}
       \field{year}{2021}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{urlraw}
       \verb http://archive.soundamerican.org/phone/index.html
       \endverb
@@ -2799,6 +2829,7 @@
       \field{title}{Prescriptive and Descriptive Music-Writing}
       \field{volume}{44}
       \field{year}{1958}
+      \true{nocite}
       \field{pages}{184\bibrangedash 195}
       \range{pages}{12}
     \endentry
@@ -2826,10 +2857,9 @@
       \field{month}{10}
       \field{number}{2}
       \field{shorttitle}{Anthony Braxton's Comp. 76}
-      \field{title}{Improvisation and Collaboration in Anthony Braxton’s Composition 76}
+      \field{title}{Improvisation and Collaboration in Anthony Braxton's Composition 76}
       \field{volume}{62}
       \field{year}{2018}
-      \true{nocite}
       \field{pages}{249\bibrangedash 278}
       \range{pages}{30}
       \verb{doi}
@@ -2868,7 +2898,6 @@
       \field{title}{Rădulescu: The Other Spectralist}
       \field{volume}{72}
       \field{year}{2018}
-      \true{nocite}
       \field{pages}{20\bibrangedash 40}
       \range{pages}{21}
       \verb{doi}
@@ -3080,7 +3109,6 @@
       \field{labeltitlesource}{title}
       \field{title}{Having Never Written a Note for Percussion}
       \field{year}{1971}
-      \true{nocite}
     \endentry
     \entry{Testa}{misc}{}
       \name{author}{1}{}{%
@@ -3108,7 +3136,6 @@
       \field{month}{11}
       \field{title}{Composition No. 6E}
       \field{year}{2022}
-      \true{nocite}
       \verb{urlraw}
       \verb https://tricentricfoundation.org/composition-no-6e
       \endverb
@@ -3140,7 +3167,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Divergence Press}
       \field{month}{10}
-      \field{title}{Fingers, Fragility and Freedom – Christian Wolff’s Pianist: Pieces}
+      \field{title}{Fingers, Fragility and Freedom – Christian Wolff's Pianist: Pieces}
       \field{year}{2016}
       \true{nocite}
       \verb{urlraw}
@@ -3178,7 +3205,6 @@
       \field{shorttitle}{Workbook I}
       \field{title}{Soundpainting: The Art of Live Composition Workbook I}
       \field{year}{2006}
-      \true{nocite}
     \endentry
     \entry{Corri}{online}{}
       \field{sortinit}{V}
@@ -3287,7 +3313,6 @@
       \field{labeltitlesource}{title}
       \field{title}{Edges}
       \field{year}{1968}
-      \true{nocite}
     \endentry
     \entry{Wood_2015}{misc}{}
       \name{author}{1}{}{%
@@ -3311,7 +3336,6 @@
       \field{journaltitle}{Music Crash Courses}
       \field{title}{Introduction to Music Notation}
       \field{year}{2015}
-      \true{nocite}
       \verb{urlraw}
       \verb https://www.musiccrashcourses.com/lessons/notation\%5Fintro.html
       \endverb
@@ -3339,7 +3363,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Sound American}
-      \field{title}{Anthony Braxton’s Language Music}
+      \field{title}{Anthony Braxton's Language Music}
       \field{year}{2021}
       \true{nocite}
       \verb{urlraw}
@@ -3377,7 +3401,6 @@
       \field{title}{Mycenae - Alpha 1978}
       \field{volume}{25}
       \field{year}{1987}
-      \true{nocite}
       \field{pages}{12\bibrangedash 15}
       \range{pages}{4}
     \endentry
