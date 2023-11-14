@@ -7,7 +7,17 @@
 % \usepackage{parskip}
 % \setlength{\parindent}{48pt}
 
+% Changes the way urls break across lines. Also the {tt} renders urls in monospaced fonts.
+\usepackage{url}
+\urlstyle{tt}
 
+%% Set tt font size with \setttsize{\small}, etc. The problem is it makes all the tt fonts in footnotes larger......
+%\usepackage{letltxmacro}
+%% https://tex.stackexchange.com/q/88001/5764
+%\LetLtxMacro\oldttfamily\ttfamily
+%\DeclareRobustCommand{\ttfamily}{\oldttfamily\csname ttsize\endcsname}
+%\newcommand{\setttsize}[1]{\def\ttsize{#1}}%
+%\setttsize{\small}
 
 % ALLOWS \overset and \underset COMMANDS as well as \lozenge in Ch. 2
 \usepackage{amsmath}
@@ -105,6 +115,16 @@
 % ALLOWS USE OF LILYPOND EXCERPTS
 \usepackage{lilyglyphs}
 \usepackage{fontspec} % ALLOWS ADVANCED FONT SELECTION; ALSO REQUIRED FOR LILYGLYPHS TO WORK FOR SOME REASON
+
+%\setmonofont{Latin Modern Mono Prop Light}[Scale=MatchLowercase]
+%\setmonofont{Ricty Diminished}[Scale=MatchLowercase]
+\setmonofont{InconsolataN}[Scale=MatchLowercase]
+
+%% BETTER TT FONT (REQUIRES FONTSPEC)
+%\setmonofont[ItalicFont=NewCMMono10-Italic.otf,%
+%BoldFont=NewCMMono10-Bold.otf,%
+%BoldItalicFont=NewCMMono10-BoldOblique.otf,%
+%SmallCapsFeatures={Numbers=OldStyle}]{NewCMMono10-Regular.otf}
 
     % SET MAIN FONT(S) HERE OR COMMENT OUT FOR DEFAULTS
     % THESE ARE JUST SOME FONTS I KIND OF LIKE
