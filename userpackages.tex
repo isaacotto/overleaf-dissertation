@@ -7,11 +7,18 @@
 % \usepackage{parskip}
 % \setlength{\parindent}{48pt}
 
+% Ignores warnings related to package {sectsty} which gets worried
+% about these two commands for some reason.
+\usepackage{silence}
+\WarningFilter[temp]{latex}{Command \underbar has changed.}
+\WarningFilter[temp]{latex}{Command \underline has changed.}
+
 % Changes the way urls break across lines. Also the {tt} renders urls in monospaced fonts.
 \usepackage{url}
 \urlstyle{tt}
 
-%% Set tt font size with \setttsize{\small}, etc. The problem is it makes all the tt fonts in footnotes larger......
+%% Set tt font size with \setttsize{\small}, etc.
+%The problem is it makes all the tt fonts in footnotes larger...
 %\usepackage{letltxmacro}
 %% https://tex.stackexchange.com/q/88001/5764
 %\LetLtxMacro\oldttfamily\ttfamily

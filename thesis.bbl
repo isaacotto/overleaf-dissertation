@@ -122,6 +122,7 @@
       \field{labeltitlesource}{title}
       \field{title}{Workers Union}
       \field{year}{1975}
+      \true{nocite}
     \endentry
     \entry{Benadon_2009}{article}{}
       \name{author}{1}{}{%
@@ -151,6 +152,7 @@
       \field{title}{Gridless Beats}
       \field{volume}{47}
       \field{year}{2009}
+      \true{nocite}
       \field{pages}{135\bibrangedash 164}
       \range{pages}{30}
       \verb{doi}
@@ -237,6 +239,7 @@
       \field{journaltitle}{Grove Music Online}
       \field{title}{Notation}
       \field{year}{2014}
+      \true{nocite}
       \verb{urlraw}
       \verb https://doi.org/10.1093/gmo/9781561592630.article.20114
       \endverb
@@ -271,6 +274,7 @@
       \field{labeltitlesource}{title}
       \field{title}{Stripsody}
       \field{year}{1966}
+      \true{nocite}
     \endentry
     \entry{Berio_1958}{book}{}
       \name{author}{1}{}{%
@@ -299,6 +303,7 @@
       \field{labeltitlesource}{title}
       \field{title}{Sequenza per Flauto Solo}
       \field{year}{1958}
+      \true{nocite}
     \endentry
     \entry{Berliner_1994}{book}{}
       \name{author}{1}{}{%
@@ -334,6 +339,7 @@
       \field{shorttitle}{Thinking in Jazz}
       \field{title}{Thinking in Jazz: The Infinite Art of Improvisation}
       \field{year}{1994}
+      \true{nocite}
     \endentry
     \entry{Bonhams}{misc}{}
       \name{author}{1}{}{%
@@ -431,6 +437,7 @@
       \field{shorttitle}{Music Lessons}
       \field{title}{Music Lessons: The Collège de France Lectures}
       \field{year}{2019}
+      \true{nocite}
     \endentry
     \entry{Braxton_1977}{book}{}
       \name{author}{1}{}{%
@@ -461,7 +468,6 @@
       \field{labeltitlesource}{title}
       \field{title}{Composition No. 76}
       \field{year}{1977}
-      \true{nocite}
     \endentry
     \entry{Braxton_Comp_76}{book}{}
       \name{author}{1}{}{%
@@ -492,6 +498,7 @@
       \field{labeltitlesource}{title}
       \field{title}{Composition No. 76}
       \field{year}{2014}
+      \true{nocite}
     \endentry
     \entry{Braxton_1988A}{book}{}
       \name{author}{1}{}{%
@@ -559,7 +566,6 @@
       \field{shorttitle}{Comp. Notes D}
       \field{title}{Composition Notes Book D}
       \field{year}{1988}
-      \true{nocite}
     \endentry
     \entry{Braxton_For_Trio}{book}{}
       \name{author}{1}{}{%
@@ -589,7 +595,6 @@
       \field{labeltitlesource}{title}
       \field{title}{For Trio}
       \field{year}{1978}
-      \true{nocite}
     \endentry
     \entry{Braxton_1985}{book}{}
       \name{author}{1}{}{%
@@ -620,7 +625,6 @@
       \field{title}{Tri-Axium Writings}
       \field{volume}{3}
       \field{year}{1985}
-      \true{nocite}
     \endentry
     \entry{Brown_1986}{book}{}
       \name{author}{1}{}{%
@@ -748,6 +752,7 @@
       \field{shorttitle}{Five Piano Pieces for David Tudor}
       \field{title}{Five Piano Pieces for David Tudor: 1959: Extraits de Pièces de Chair II (reproduction de manuscript de l'auteur)}
       \field{year}{1959}
+      \true{nocite}
     \endentry
     \entry{Cage_1958}{book}{}
       \name{author}{1}{}{%
@@ -808,6 +813,7 @@
       \field{labeltitlesource}{title}
       \field{title}{Concert for Piano and Orchestra: Solo for Piano}
       \field{year}{1960}
+      \true{nocite}
     \endentry
     \entry{Canguilhem_2017}{inbook}{}
       \name{author}{1}{}{%
@@ -883,6 +889,7 @@
       \field{labeltitlesource}{title}
       \field{title}{Treatise}
       \field{year}{1967}
+      \true{nocite}
     \endentry
     \entry{Carl_2010}{misc}{}
       \name{author}{1}{}{%
@@ -1024,6 +1031,7 @@
       \field{isbn}{0-697-03607-3}
       \field{title}{New Directions in Music}
       \field{year}{1984}
+      \true{nocite}
     \endentry
     \entry{MAX}{misc}{}
       \name{author}{1}{}{%
@@ -1144,7 +1152,6 @@
       \field{number}{16: The Anthony Braxton Issue}
       \field{title}{SA16: Ghost Trance Music}
       \field{year}{2016}
-      \true{nocite}
       \verb{urlraw}
       \verb http://archive.soundamerican.org/sa\%5Farchive/sa16/sa16-ghost-trance-music.html
       \endverb
@@ -1253,7 +1260,6 @@
       \field{title}{On Horatiu Radulescu's Fifth String Quartet (`Before the Universe was Born') Op. 89}
       \field{volume}{68}
       \field{year}{2014}
-      \true{nocite}
       \field{pages}{34\bibrangedash 45}
       \range{pages}{12}
     \endentry
@@ -1311,7 +1317,6 @@
       \field{title}{Re-Complexifying the Function(s) of Notation in the Music of Brian Ferneyhough and the ``New Complexity''}
       \field{volume}{48}
       \field{year}{2010}
-      \true{nocite}
       \field{pages}{136\bibrangedash 172}
       \range{pages}{37}
     \endentry
@@ -1439,6 +1444,7 @@
       \field{labeltitlesource}{title}
       \field{title}{Notation neuer Musik}
       \field{year}{1965}
+      \true{nocite}
       \verb{urlraw}
       \verb https://ci.nii.ac.jp/ncid/BA86950051
       \endverb
@@ -1539,7 +1545,6 @@
       \field{isbn}{978-3-7186-5576-2}
       \field{title}{Collected Writings}
       \field{year}{1995}
-      \true{nocite}
     \endentry
     \entry{Ferneyhough_1976}{book}{}
       \name{author}{1}{}{%
@@ -1566,7 +1571,6 @@
       \field{labeltitlesource}{title}
       \field{title}{Unity Capsule}
       \field{year}{1976}
-      \true{nocite}
     \endentry
     \entry{Griffiths_2011}{book}{}
       \name{author}{1}{}{%
@@ -1601,6 +1605,7 @@
       \field{month}{2}
       \field{title}{Modern Music and After}
       \field{year}{2011}
+      \true{nocite}
     \endentry
     \entry{Gutkin}{article}{}
       \name{author}{1}{}{%
@@ -1627,6 +1632,7 @@
       \field{journaltitle}{Perspectives of New Music, Volume 50, Winter/Summer 2012}
       \field{shorttitle}{Drastic or Plastic?}
       \field{title}{Drastic or Plastic?: Threads from Karlheinz Stockhausen ``Musik und Graphik,'' 1959}
+      \true{nocite}
       \verb{urlraw}
       \verb https://muse.jhu.edu/article/778105/
       \endverb
@@ -1690,7 +1696,6 @@
       \field{title}{Horatiu Radulescu, ``Sound Plasma''}
       \field{volume}{26}
       \field{year}{1983}
-      \true{nocite}
     \endentry
     \entry{Heery_2016}{article}{}
       \name{author}{1}{}{%
@@ -1717,7 +1722,6 @@
       \field{title}{Sound Plasma: Horatiu Rădulescu's Oto-utopia}
       \field{volume}{4}
       \field{year}{2016}
-      \true{nocite}
     \endentry
     \entry{Hucke_1980}{article}{}
       \name{author}{1}{}{%
@@ -1795,6 +1799,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{IMSLP}
       \field{title}{Codex Chantilly (Various)}
+      \true{nocite}
       \verb{urlraw}
       \verb https://imslp.org/wiki/Codex\%5FChantilly\%5F(Various)
       \endverb
@@ -1834,6 +1839,7 @@
       \field{title}{The textures of Central Javanese gamelan music: Pre-notation and its discontents}
       \field{volume}{164}
       \field{year}{2008}
+      \true{nocite}
       \field{pages}{475\bibrangedash 499}
       \range{pages}{25}
       \verb{doi}
@@ -1871,7 +1877,6 @@
       \field{isbn}{978-0-306-80556-1}
       \field{title}{Free Jazz}
       \field{year}{1994}
-      \true{nocite}
     \endentry
     \entry{Kanno_2007}{article}{}
       \name{author}{1}{}{%
@@ -2007,6 +2012,7 @@
       \field{labeltitlesource}{title}
       \field{title}{Pression}
       \field{year}{1969}
+      \true{nocite}
     \endentry
     \entry{Lewis_1977}{book}{}
       \name{author}{1}{}{%
@@ -2125,6 +2131,7 @@
       \field{labeltitlesource}{shorttitle}
       \field{shorttitle}{The Illusion Machine}
       \field{title}{The Illusion Machine: Selected Writings of György Ligeti (forthcoming)}
+      \true{nocite}
     \endentry
     \entry{Lock_2008}{article}{}
       \name{author}{1}{}{%
@@ -2152,7 +2159,6 @@
       \field{title}{`What I Call a Sound': Anthony Braxton's Synaesthetic Ideal and Notations for Improvisers}
       \field{volume}{4}
       \field{year}{2008}
-      \true{nocite}
       \verb{doi}
       \verb 10.21083/csieci.v4i1.462
       \endverb
@@ -2191,7 +2197,6 @@
       \field{shorttitle}{Blutopia}
       \field{title}{Blutopia: Visions of the Future and Revisions of the Past in the Work of Sun Ra, Duke Ellington, and Anthony Braxton}
       \field{year}{2000}
-      \true{nocite}
     \endentry
     \entry{Lock_1989}{book}{}
       \name{author}{1}{}{%
@@ -2228,7 +2233,6 @@
       \field{shorttitle}{Forces in Motion}
       \field{title}{Forces in Motion: The Music And Thoughts Of Anthony Braxton}
       \field{year}{1989}
-      \true{nocite}
     \endentry
     \entry{Lusitano_1561}{book}{}
       \name{author}{1}{}{%
@@ -2338,6 +2342,7 @@
       \field{month}{5}
       \field{title}{Notations – seeing sound}
       \field{year}{2015}
+      \true{nocite}
       \verb{urlraw}
       \verb https://debbielyddon.wordpress.com/2015/05/18/notations-seeing-sound/
       \endverb
@@ -2368,6 +2373,7 @@
       \field{month}{6}
       \field{title}{Music 101: What Is Musical Notation? Learn About The Different Types of Musical Notes and Time Signatures}
       \field{year}{2021}
+      \true{nocite}
       \verb{urlraw}
       \verb https://www.masterclass.com/articles/music-101-what-is-musical-notation-learn-about-the-different-types-of-musical-notes-and-time-signatures
       \endverb
@@ -2542,7 +2548,6 @@
       \field{shorttitle}{Op. 89}
       \field{title}{Before the Universe was Born, Op. 89}
       \field{year}{1993}
-      \true{nocite}
     \endentry
     \entry{Radulescu_1984}{book}{}
       \name{author}{1}{}{%
@@ -2569,7 +2574,6 @@
       \field{labeltitlesource}{title}
       \field{title}{Das Andere}
       \field{year}{1984}
-      \true{nocite}
     \endentry
     \entry{Radulescu_1975}{book}{}
       \name{author}{1}{}{%
@@ -2599,7 +2603,6 @@
       \field{labeltitlesource}{title}
       \field{title}{Sound Plasma: Music of the Future Sign}
       \field{year}{1975}
-      \true{nocite}
     \endentry
     \entry{Reisenweaver_2012}{article}{}
       \name{author}{1}{}{%
@@ -2675,6 +2678,7 @@
       \field{howpublished}{CD}
       \field{title}{Slipknots Through a Looking Glass, Part 2}
       \field{year}{2020}
+      \true{nocite}
     \endentry
     \entry{Rosen_1970}{article}{}
       \name{author}{1}{}{%
@@ -2812,7 +2816,6 @@
       \field{urlyear}{2023}
       \field{year}{2021}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{urlraw}
       \verb http://archive.soundamerican.org/phone/index.html
       \endverb
@@ -2916,7 +2919,6 @@
       \field{title}{Improvisation and Collaboration in Anthony Braxton's Composition 76}
       \field{volume}{62}
       \field{year}{2018}
-      \true{nocite}
       \field{pages}{249\bibrangedash 278}
       \range{pages}{30}
       \verb{doi}
@@ -2955,7 +2957,6 @@
       \field{title}{Rădulescu: The Other Spectralist}
       \field{volume}{72}
       \field{year}{2018}
-      \true{nocite}
       \field{pages}{20\bibrangedash 40}
       \range{pages}{21}
       \verb{doi}
@@ -3069,6 +3070,7 @@
       \field{shorttitle}{Music in the Late Twentieth Century}
       \field{title}{Music in the Late Twentieth Century: The Oxford History of Western Music}
       \field{year}{2009}
+      \true{nocite}
     \endentry
     \entry{Taruskin_2009a}{book}{}
       \name{author}{1}{}{%
@@ -3171,6 +3173,7 @@
       \field{labeltitlesource}{title}
       \field{title}{Having Never Written a Note for Percussion}
       \field{year}{1971}
+      \true{nocite}
     \endentry
     \entry{Testa}{misc}{}
       \name{author}{1}{}{%
@@ -3198,7 +3201,6 @@
       \field{month}{11}
       \field{title}{Composition No. 6E}
       \field{year}{2022}
-      \true{nocite}
       \verb{urlraw}
       \verb https://tricentricfoundation.org/composition-no-6e
       \endverb
@@ -3405,6 +3407,7 @@
       \field{journaltitle}{Music Crash Courses}
       \field{title}{Introduction to Music Notation}
       \field{year}{2015}
+      \true{nocite}
       \verb{urlraw}
       \verb https://www.musiccrashcourses.com/lessons/notation\%5Fintro.html
       \endverb
@@ -3470,6 +3473,7 @@
       \field{title}{Mycenae Alpha 1978}
       \field{volume}{25}
       \field{year}{1987}
+      \true{nocite}
       \field{pages}{12\bibrangedash 15}
       \range{pages}{4}
     \endentry
