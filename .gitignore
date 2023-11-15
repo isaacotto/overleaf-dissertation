@@ -11,6 +11,7 @@
 *.lot
 *.out
 *.toc
+*.synctex(busy)
 
 # Ignore the final .pdf.
 *.pdf
