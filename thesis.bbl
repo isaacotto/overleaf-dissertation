@@ -2350,6 +2350,56 @@
       \verb https://debbielyddon.wordpress.com/2015/05/18/notations-seeing-sound/
       \endverb
     \endentry
+    \entry{Marinescu}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d14bc3255dfc87c08060908ed231378c}{%
+           family={Marinescu},
+           familyi={M\bibinitperiod},
+           given={Liviu},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=63ff8c59b8fefbb6b7c5359a8d075120}{%
+           family={Bauer},
+           familyi={B\bibinitperiod},
+           given={Amy},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f9ec1dd160e4988a2fa14f5434dfade4}{%
+           family={Cagney},
+           familyi={C\bibinitperiod},
+           given={Liam},
+           giveni={L\bibinitperiod}}}%
+        {{hash=8572458897a347073aca2c18c95c0447}{%
+           family={Mason},
+           familyi={M\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{d14bc3255dfc87c08060908ed231378c}
+      \strng{fullhash}{d14bc3255dfc87c08060908ed231378c}
+      \strng{bibnamehash}{d14bc3255dfc87c08060908ed231378c}
+      \strng{authorbibnamehash}{d14bc3255dfc87c08060908ed231378c}
+      \strng{authornamehash}{d14bc3255dfc87c08060908ed231378c}
+      \strng{authorfullhash}{d14bc3255dfc87c08060908ed231378c}
+      \strng{editorbibnamehash}{b8014d2acd918288a198bf006746818f}
+      \strng{editornamehash}{b8014d2acd918288a198bf006746818f}
+      \strng{editorfullhash}{b8014d2acd918288a198bf006746818f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{The Oxford Handbook of Spectral Music}
+      \field{isbn}{978-0-19-063354-7}
+      \field{shorttitle}{Horațiu Rădulescu}
+      \field{title}{Horațiu Rădulescu and the Intangible Dimensions of Plasmatic Music}
+      \verb{doi}
+      \verb 10.1093/oxfordhb/9780190633547.013.22
+      \endverb
+    \endentry
     \entry{Music_101}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=4f402d7df6e2120d95ab6c9156592006}{%
