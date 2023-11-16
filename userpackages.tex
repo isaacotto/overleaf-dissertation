@@ -253,10 +253,21 @@
 % FOR SOME REASON ONLY INCLUDING THIS PACKAGE {tocloft} ALLOWS THE LISTS OF FIGURES AND TABLES TO SHOW UP---IT SEEMS BROKEN OTHERWISE. I MIGHT AS WELL MAKE SURE I DON'T WANT SOME SPECIAL FORMATTING WHILE I'M AT IT...??
 \usepackage{tocloft}
 
+% For some reason that I don't bear to consider, only the table of 
+% contents NEEDS another \hfill following it, otherwise it slams hard
+% to the right. This appears to be a delicate balancing act that works.
 \renewcommand{\contentsname}{\hfill \Large TABLE OF CONTENTS \hfill}
-\renewcommand{\listfigurename}{\hfill \Large LIST OF FIGURES \hfill}
-\renewcommand{\listtablename}{\hfill \Large LIST OF TABLES \hfill}
+\renewcommand{\listfigurename}{\hfill \Large LIST OF FIGURES}
+\renewcommand{\listtablename}{\hfill \Large LIST OF TABLES}
+
 \renewcommand{\cftaftertoctitle}{\hfill}
+\renewcommand{\cftafterloftitle}{\hfill}
+\renewcommand{\cftafterlottitle}{\hfill}
+
+\renewcommand{\cftbeforetoctitleskip}{-0.25in}
+\renewcommand{\cftbeforeloftitleskip}{-0.25in}
+\renewcommand{\cftbeforelottitleskip}{-0.25in}
+
 %\addto\captionsenglish{%
 %\renewcommand{\contentsname}%
 %    {\protect\centering\protect\Large TABLE OF CONTENTS}%
