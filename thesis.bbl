@@ -1886,6 +1886,36 @@
       \verb 10.1080/07494460701250890
       \endverb
     \endentry
+    \entry{Killick}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b98a9b43de2ee552e9ae23b295404d55}{%
+           family={Killick},
+           familyi={K\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \strng{namehash}{b98a9b43de2ee552e9ae23b295404d55}
+      \strng{fullhash}{b98a9b43de2ee552e9ae23b295404d55}
+      \strng{bibnamehash}{b98a9b43de2ee552e9ae23b295404d55}
+      \strng{authorbibnamehash}{b98a9b43de2ee552e9ae23b295404d55}
+      \strng{authornamehash}{b98a9b43de2ee552e9ae23b295404d55}
+      \strng{authorfullhash}{b98a9b43de2ee552e9ae23b295404d55}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Global Notation}
+      \verb{urlraw}
+      \verb https://www.globalnotation.org.uk/
+      \endverb
+      \verb{url}
+      \verb https://www.globalnotation.org.uk/
+      \endverb
+    \endentry
     \entry{Kite-Powell_2012}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=09fa7fe3494ef5225d0fdee3aec5ff21}{%

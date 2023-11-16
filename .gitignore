@@ -12,6 +12,7 @@
 *.out
 *.toc
 *.synctex(busy)
+*.run.xml
 
 # Ignore the final .pdf.
 *.pdf
