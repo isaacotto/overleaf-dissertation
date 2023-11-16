@@ -265,6 +265,18 @@
 % Reverted back to standard latex appendix, since numbering of
 % figures/tables was broken with custom command.
 %\renewcommand{\appendix}
+%\newcommand{\myappendix}
+%{
+%	\par
+%	\setcounter{section}{0}
+%	\setcounter{figure}{0}
+%	\setcounter{table}{0}
+%	\setcounter{equation}{0}
+%	\gdef\thechapter{\@Alph\c@section}
+%	\gdef\thesection{\@Alph\c@section}
+%	\chapter*{Appendices}
+%	\addcontentsline{toc}{chapter}{Appendices}
+%}
 \newcommand{\myappendix}
 {
 	\par
@@ -274,10 +286,9 @@
 	\setcounter{equation}{0}
 	\gdef\thechapter{\@Alph\c@section}
 	\gdef\thesection{\@Alph\c@section}
-	\chapter*{Appendices}
+	\chapter{Appendices}
 	\addcontentsline{toc}{chapter}{Appendices}
 }
-
 % Redefine the bibliography to make it single-spaced.
 % \renewcommand{\bibliography}[1]{%
 %   \if@filesw
