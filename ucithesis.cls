@@ -194,9 +194,10 @@
 	\clearpage
 }
 
-\renewcommand{\contentsname}{\protect\centering\protect\Large TABLE OF CONTENTS}
-\renewcommand{\listfigurename}{\protect\centering\protect\Large LIST OF FIGURES}
-\renewcommand{\listtablename}{\protect\centering\protect\Large LIST OF TABLES}
+% Disabling here to move after {tocloft} in userpackages.tex -IO
+%\renewcommand{\contentsname}{\hfill \Large TABLE OF CONTENTS \hfill}
+%\renewcommand{\listfigurename}{\hfill \Large LIST OF FIGURES \hfill}
+%\renewcommand{\listtablename}{\hfill \Large LIST OF TABLES \hfill}
 
 % Add "Page" as column title to Table of Contents, List of Figures,
 % List of Tables, and List of Algorithms

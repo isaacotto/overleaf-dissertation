@@ -81,7 +81,11 @@
 % FIXES CAPTIONS AND ALLOWS FOR CAPTION OPTIONS
 \usepackage[margin=10pt,font=small,labelfont=bf]{caption}
 
-\usepackage[english]{babel}
+% I think I included babel to allow some german bits.
+% But then I had to add this command afterward to change the
+% contents page to ``table of contents''
+%\usepackage[english]{babel} 
+
 
 % ALLOWS URL BREAKS AT ANY ALPHANUMERIC CHAR
 %\usepackage{xurl}
@@ -248,6 +252,25 @@
 
 % FOR SOME REASON ONLY INCLUDING THIS PACKAGE {tocloft} ALLOWS THE LISTS OF FIGURES AND TABLES TO SHOW UP---IT SEEMS BROKEN OTHERWISE. I MIGHT AS WELL MAKE SURE I DON'T WANT SOME SPECIAL FORMATTING WHILE I'M AT IT...??
 \usepackage{tocloft}
+
+\renewcommand{\contentsname}{\hfill \Large TABLE OF CONTENTS \hfill}
+\renewcommand{\listfigurename}{\hfill \Large LIST OF FIGURES \hfill}
+\renewcommand{\listtablename}{\hfill \Large LIST OF TABLES \hfill}
+\renewcommand{\cftaftertoctitle}{\hfill}
+%\addto\captionsenglish{%
+%\renewcommand{\contentsname}%
+%    {\protect\centering\protect\Large TABLE OF CONTENTS}%
+%}
+%\addto\captionsenglish{%
+%  \renewcommand{\listfigurename}%
+%    {\protect\centering\protect\Large LIST OF FIGURES}%
+%}
+%\addto\captionsenglish{%
+%  \renewcommand{\listtablename}%
+%    {\protect\centering\protect\Large LIST OF TABLES}%
+%}
+
+
 
 % ALLOWS TITLES TO BE SINGLE-SPACED
 \usepackage{sectsty}
