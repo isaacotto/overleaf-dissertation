@@ -1,4 +1,4 @@
-# WT: On the Use and Function of Open Notations
+# Scoring the Unknown: Rethinking Fixity and Openness in Western Art Music Notation
 
 *This directory is now directly synchronized with Overleaf.*
 
