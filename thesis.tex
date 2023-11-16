@@ -130,7 +130,7 @@
 \preliminarypages
 
 % Include the different components of your thesis, in separate files.
-% Using \include allows you to set \includeonly above.
+% Using \include allows you to set \Nincludeonly above.
 
 %% ADDED BY ME -- NEEDED TO RESET PARAGRAPH SPACING AFTER PRELIMS
 \setlength{\parskip}{0pt}
@@ -148,10 +148,9 @@
 
 \chapter{\{O-G\}}
 \include{chapter4}
-%\include{chapter2}
-% ... and so on
 
 \newpage
+\addcontentsline{toc}{chapter}{BIBLIOGRAPHY} % ALLOWS BIBLIOGRAPHY IN TABLE OF CONTENTS -IO
 \begingroup
 \setstretch{0.8}
 %\setlength\bibitemsep{5pt} % default for UCIthesis
@@ -181,8 +180,8 @@
 
 
 % If you have an appendix, it should come after the references.
-%\begin{appendices}
+\begin{appendices}
 \include{appendix}
-%\end{appendices}
+\end{appendices}
 
 \end{document}
