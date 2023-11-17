@@ -5,6 +5,17 @@
 % allows for inclusion of pdfs
 \usepackage[final]{pdfpages}
 
+% Title formatting
+\usepackage{sectsty}
+\allsectionsfont{\singlespacing}
+\chapterfont{\singlespacing\centering\Large\bfseries\MakeUppercase}
+    
+% Failed attempts at formatting chapter titles...
+%\usepackage{titlesec}
+%\titleformat{\chapter}{\normalfont\huge\bfseries\singlespacing}{\thechapter.}{1em}{\huge}
+%\usepackage[Lenny]{fncychap}
+
+
 % needed to make appendices appear correctly in table of contents!
 \usepackage[titletoc]{appendix}
 
@@ -286,7 +297,3 @@
 %}
 
 
-
-% ALLOWS TITLES TO BE SINGLE-SPACED
-\usepackage{sectsty}
-\allsectionsfont{\singlespacing}
