@@ -13,9 +13,18 @@
 %
 \documentclass[12pt,fleqn,hyphens]{ucithesis}
 \usepackage{inputenc}
-\usepackage{biblatex-chicago}
+\usepackage[useibid=true]{biblatex-chicago}
 \addbibresource{thesis.bib}
 \usepackage{csquotes}
+
+%\DeclareCiteCommand{\footcite}[\mkbibfootnote]
+%  {\renewbibmacro*{cite:ibid}{\printtext[bibhyperref]{\bibstring[\mkibid]{ibidem}}}%
+%   \usebibmacro{cite:init}%
+%   \usebibmacro{prenote}}
+%  {\usebibmacro{citeindex}%
+%   \usebibmacro{cite}}
+%  {}%\multicitedelim
+%  {\usebibmacro{postnote}}
 
 %% DARK MODE FOR EDITING - OBVIOUSLY COMMENT OUT FOR FINAL
 %\usepackage{xcolor}
@@ -146,7 +155,7 @@
 \chapter{Toward a Richer Typology of (Open)~Notations}
 \include{chapter2}
 
-\chapter{Hybridity \& the Fixity Gradient in Two~Late-Century Work-complexes: Anthony~Braxton \& Horațiu~Rădulescu}
+\chapter{Hybridity \& the Fixity Gradient in Two~Late-Century Work Complexes: Anthony~Braxton \& Horațiu~Rădulescu}
 \include{chapter3}
 
 \chapter{\{O-G\}}
