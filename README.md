@@ -8,11 +8,11 @@
 
 ## To-do list:
 
-- Begin with Ch. 1 edits.
+✓ - Begin with Ch. 1 edits.
     - See if there's anywhere I need to change section breaks.
-    - Address large-scale changes suggested by Amy and Michael
-        - Issues with discussion of figured-bass
-        - Issues with discussion of George  Lewis' paper.
-    - Address smaller comments in re: grammar and punctuation.
+✓    - Address large-scale changes suggested by Amy and Michael
+✓        - Issues with discussion of figured-bass
+✓        - Issues with discussion of George  Lewis' paper.
+✓ - Address smaller comments in re: grammar and punctuation.
 - Refine abstract as necessary.
-- Come up with a better title.
+✓- Come up with a better title.
